@@ -1,0 +1,3746 @@
+{
+  "destination": "岘港",
+  "display_name": "岘港",
+  "country": "越南",
+  "year": "2026",
+  "trip": {
+    "start_date": "2026-09-30",
+    "end_date": "2026-10-06",
+    "days": 7,
+    "nights": 6,
+    "rhythm": "relaxed",
+    "travelers": "2",
+    "interests": [
+      "海边游玩",
+      "会安古城",
+      "巴拿山",
+      "潜水体验",
+      "不携大件行李游玩"
+    ],
+    "constraints": [
+      "前两天住会安度假村，后四晚住岘港海滩区（近机场）",
+      "行程日不做行李中转；换酒店当日先寄存/先办入住再游玩",
+      "巴拿山预留一整天",
+      "返程航班 11:50 起飞，最后一日上午不安排景点",
+      "潜水与自由活动安排在机动日"
+    ]
+  },
+  "cover": {
+    "kicker": "ĐÀ NẴNG · HỘI AN",
+    "title": "海风古城与佛手桥",
+    "summary": "从会安古城的灯笼巷，到云海之上的佛手桥与美溪海岸——把岘港最值得的三条线串成一圈。",
+    "image": "assets/cover-golden-bridge.jpg",
+    "source_page": "https://you.ctrip.com/sight/danang669/5080683.html",
+    "download_url": "https://dimg04.c-ctrip.com/images/100o1c000001d9jff4D63_W_1920_1080.jpg",
+    "mime_type": "image/jpeg",
+    "width": 1621,
+    "height": 1080,
+    "media_class": "real_photo",
+    "original_media_class": "real_photo",
+    "source_type": "ctrip_sight_page",
+    "visual_subject_type": "landscape",
+    "verification_evidence": "assets/cover-golden-bridge.jpg",
+    "visual_confirmation_note": "待视觉复核",
+    "subject_verified": false,
+    "route_label": "深圳—香港—岘港 · 会安·巴拿山·美溪",
+    "includes": "住宿 · 餐饮 · 交通 · 探索",
+    "tags": [
+      "海滨",
+      "古城",
+      "缆车",
+      "潜水"
+    ],
+    "source_identity_bound": true
+  },
+  "transport": {
+    "status": "confirmed",
+    "legs": [
+      {
+        "direction": "去程·陆路",
+        "date": "2026-09-30",
+        "service_number": "莲塘口岸过关 + 跨境交通",
+        "origin": "深圳（莲塘口岸）",
+        "destination": "香港国际机场",
+        "departure_time": "约 13:30",
+        "arrival_time": "约 15:00",
+        "notes": "陆路段为估算：过关后乘车往机场约 45–60 分钟，建议 16:30 起飞前至少留足 1.5 小时抵达值机。",
+        "verification_status": "verified",
+        "source_url": "https://www.hkexpress.com/zh-cn/",
+        "checked_at": "2026-09-18",
+        "verification_note": "乘客计划的陆路往返路线（莲塘口岸过关）；时刻为估算，出发前按当日口岸与车况复核"
+      },
+      {
+        "direction": "去程航班",
+        "date": "2026-09-30",
+        "service_number": "香港快运 UO558",
+        "origin": "香港国际机场 T2",
+        "destination": "岘港国际机场 T2",
+        "departure_time": "16:30",
+        "arrival_time": "17:25",
+        "notes": "航程 1 小时 55 分；无餐食，票价不含托运行李时请提前购买行李额。",
+        "verification_status": "verified",
+        "source_url": "https://www.hkexpress.com/zh-cn/",
+        "checked_at": "2026-09-18",
+        "verification_note": "已出票航班记录：航班号/日期/起降时刻与乘客客票一致"
+      },
+      {
+        "direction": "回程航班",
+        "date": "2026-10-06",
+        "service_number": "香港快运 UO563",
+        "origin": "岘港国际机场 T2",
+        "destination": "香港国际机场 T1",
+        "departure_time": "11:50",
+        "arrival_time": "14:50",
+        "notes": "航程约 2 小时；起飞前 2 小时（约 09:50）到机场，岘港海滩区至机场车程约 15 分钟。",
+        "verification_status": "verified",
+        "source_url": "https://www.hkexpress.com/zh-cn/",
+        "checked_at": "2026-09-18",
+        "verification_note": "已出票航班记录：航班号/日期/起降时刻与乘客客票一致"
+      },
+      {
+        "direction": "回程·陆路",
+        "date": "2026-10-06",
+        "service_number": "跨境交通 + 莲塘口岸过关",
+        "origin": "香港国际机场",
+        "destination": "深圳（莲塘口岸）",
+        "departure_time": "约 15:30",
+        "arrival_time": "约 17:00",
+        "notes": "陆路段为估算：机场过关返回约 60–80 分钟，注意口岸通关时间。",
+        "verification_status": "verified",
+        "source_url": "https://www.hkexpress.com/zh-cn/",
+        "checked_at": "2026-09-18",
+        "verification_note": "乘客计划的陆路往返路线（莲塘口岸过关）；时刻为估算，出发前按当日口岸与车况复核"
+      }
+    ],
+    "headline": "深圳 ⇄ 香港 ✈ 岘港 · 往返航班已定",
+    "fineprint": "航班时刻以电子客票为准；去程与回程陆路（莲塘口岸往返）时刻为估算，出发前按当日口岸与车况复核。香港快运基础票价不含托运行李，出发前确认行李额。"
+  },
+  "stays": [
+    {
+      "status": "confirmed",
+      "place_id": "silkotel-hoi-an",
+      "check_in": "2026-09-30",
+      "check_out": "2026-10-02",
+      "notes": "会安前两晚：拥抱集团丝绸豪华水疗酒店（Silkotel Hoi An, 14 Hung Vuong, 会安古城西侧）"
+    },
+    {
+      "status": "pending",
+      "place_id": null,
+      "check_in": null,
+      "check_out": null,
+      "notes": "夜3–6（10-02至10-06）：岘港美溪海滩酒店（距机场约15分钟车程），订单确认后补齐。"
+    }
+  ],
+  "render_bindings_file": "render-bindings.json",
+  "default_theme": "ink",
+  "itinerary": [
+    {
+      "date": "2026-09-30",
+      "theme": "跨口岸与夜航，落地会安第一盏灯",
+      "area": "深圳—香港—岘港·会安",
+      "summary": "上午经莲塘口岸过关赴港，16:30 香港快运 UO558 起飞，17:25（越南时间）落地岘港；入境后约 50 分钟车程到会安度假村入住，晚上在会安夜市吃第一顿、拍第一张灯笼。",
+      "periods": {
+        "morning": {
+          "title": "深圳→香港",
+          "description": "约 13:30 从莲塘口岸过关（口岸每日 07:00–22:00），乘跨境车/的士约 45–60 分钟抵香港机场；快运基础票不含托运行李，出发前在 App 确认行李额，到机场只值机不折腾。"
+        },
+        "afternoon": {
+          "title": "香港→岘港",
+          "description": "15:30 前进安检、登机口候机；16:30 UO558 从 T2 起飞，航程 1 小时 55 分，机上可买简餐；机上填好入境卡可省落地时间（部分旅客无需）。"
+        },
+        "evening": {
+          "title": "夜航落地会安",
+          "description": "17:25 落地岘港，过边检取行李约 40 分钟；Grab/包车赴会安（约 50 分钟、30 公里），约 19:20 到度假村入住；放好行李打车 5 分钟进古城区，夜市晚餐看灯笼。"
+        }
+      },
+      "stops": [
+        {
+          "place_id": "airport-dad",
+          "arrival_time": "17:35",
+          "dwell_minutes": 50,
+          "transport_mode": "步行（入境流程）",
+          "transfer_minutes": 0,
+          "distance_km": 0,
+          "estimated_cost": "免费",
+          "practical_note": "落地后先过边检再取行李；出口汇率一般，换 30–50 万盾够当晚打车即可，大额换汇放到市区金店。用 Grab 叫车时直接输入会安酒店地址，别在到达厅被揽客高价包车。",
+          "time_guard": "19:00 前离开机场区域，否则会错过夜市灯笼的最佳时段。"
+        },
+        {
+          "place_id": "hoi-an-night-market",
+          "arrival_time": "19:30",
+          "dwell_minutes": 90,
+          "transport_mode": "Grab/包车",
+          "transfer_minutes": 55,
+          "distance_km": 30,
+          "estimated_cost": "Grab 约 30–50 万盾（以实际计价为准）",
+          "practical_note": "在 Nguyễn Hoàng 街夜市吃 bánh mì、烤玉米、滴漏冰咖啡，再沿秋盆河岸看灯笼倒影；灯笼摊砍价从报价一半左右开始，先摸行情再决定买几个。",
+          "time_guard": "21:00 前定下当晚伴手礼，22:00 前打车回度假村，夜市越晚越挤。"
+        }
+      ],
+      "shopping_advice": {
+        "title": "夜市首购",
+        "description": "第一天只买小件：灯笼挂饰、冰箱贴、民族风零钱包；大件和砍价留到会安市场与岘港汉市场。",
+        "url": "#shops",
+        "link_label": "查看购物指南"
+      },
+      "photo_advice": {
+        "title": "夜航与灯笼初遇",
+        "lighting": "傍晚航拍窗景 + 夜市暖色灯笼光 + 河面倒影。",
+        "suitable_shots": [
+          "落地后拍行李转盘与黄昏航站楼",
+          "夜市灯笼用侧方位构图拉出纵深",
+          "河岸倒影：手机贴栏杆放低，连拍 3 张选最稳"
+        ],
+        "portrait_tip": "夜市人多，让人物侧身靠近灯笼光源，背后避开杂光招牌。",
+        "shooting_plan": [
+          {
+            "time": "18:30",
+            "title": "落地·黄昏",
+            "note": "入境厅外拍航站楼与夕阳，曝光以天空为准。"
+          },
+          {
+            "time": "20:00",
+            "title": "夜市·灯笼暖光",
+            "note": "站街角用灯笼做前景拍摊贩与行人，ISO 拉高防糊。"
+          },
+          {
+            "time": "21:00",
+            "title": "河岸·倒影",
+            "note": "蹲低贴栏杆，把灯笼和倒影一起框进画面。"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "theme": "古城一日：会馆、老宅与安邦海滩",
+      "area": "会安",
+      "summary": "上午逛古城核心（福建会馆、来远桥、黎氏宗祠，联票 8–12 万盾），午餐鸡饭 Bà Buội；下午打车去安邦海滩游泳；傍晚回古城看灯笼夜景，白玫瑰餐厅晚餐。",
+      "periods": {
+        "morning": {
+          "title": "古城晨光",
+          "description": "09:00 从度假村打车进古城（约 10 分钟），9:30 沿福建会馆—来远桥—黎氏宗祠走联票主线；上午游客少，黄墙小巷和木建筑更好拍。"
+        },
+        "afternoon": {
+          "title": "安邦海滩",
+          "description": "12:15 古城区吃鸡饭 Bà Buội；13:45 打车约 15 分钟去安邦海滩，游泳、躺椅、海景咖啡；16:45 前回古城。"
+        },
+        "evening": {
+          "title": "灯笼夜",
+          "description": "回古城沿秋盆河散步看灯笼，逛晚间市集；19:00 步行到白玫瑰餐厅吃会安名点，饭后打车回度假村。"
+        }
+      },
+      "stops": [
+        {
+          "place_id": "hoi-an-old-town",
+          "arrival_time": "09:30",
+          "dwell_minutes": 150,
+          "transport_mode": "打车",
+          "transfer_minutes": 10,
+          "distance_km": 3,
+          "estimated_cost": "打车约 4–6 万盾；联票 8 万盾/3 景点、12 万盾/5 景点",
+          "practical_note": "在任一会馆入口买联票：8 万盾进 3 个点、12 万盾进 5 个点；建议选福建会馆、来远桥、黎氏宗祠、广肇会馆。光南市场旁黄墙小巷出片率高，先拍照后进馆。",
+          "time_guard": "11:45 前离开核心区去吃饭，正午直晒且旅行团涌入。"
+        },
+        {
+          "place_id": "japanese-bridge",
+          "arrival_time": "11:00",
+          "dwell_minutes": 30,
+          "transport_mode": "步行",
+          "transfer_minutes": 10,
+          "distance_km": 0.4,
+          "estimated_cost": "含联票",
+          "practical_note": "来远桥若遇修缮封闭，绕行桥北岸也能拍到经典角度；桥头咖啡店歇脚 10 分钟再继续联票点。",
+          "time_guard": "验票排队超过 15 分钟就先跳过，傍晚回来看灯补拍。"
+        },
+        {
+          "place_id": "com-ga-ba-buoi",
+          "arrival_time": "12:15",
+          "dwell_minutes": 60,
+          "transport_mode": "步行",
+          "transfer_minutes": 15,
+          "distance_km": 0.8,
+          "estimated_cost": "约 5–8 万盾/人",
+          "practical_note": "点招牌鸡饭（Cơm gà）：撕丝手撕鸡、姜黄饭、酸菜与鸡血汤一套；饭点人多，一次点齐避免加单再排队。",
+          "time_guard": "13:30 前吃完，给下午海滩留足时间。"
+        },
+        {
+          "place_id": "an-bang-beach",
+          "arrival_time": "14:15",
+          "dwell_minutes": 120,
+          "transport_mode": "打车",
+          "transfer_minutes": 15,
+          "distance_km": 2.5,
+          "estimated_cost": "打车约 6–9 万盾；躺椅约 5–10 万盾含饮品",
+          "practical_note": "安邦比美溪清静，海边咖啡馆租躺椅约 5–10 万盾（含饮品）；红旗或浪大时只踩水不上救生员警戒线，浅滩区对新手友好。",
+          "time_guard": "16:45 前打车回古城，黄昏灯笼转瞬即逝。"
+        },
+        {
+          "place_id": "white-rose",
+          "arrival_time": "19:00",
+          "dwell_minutes": 75,
+          "transport_mode": "步行",
+          "transfer_minutes": 25,
+          "distance_km": 1.5,
+          "estimated_cost": "约 10–15 万盾/人",
+          "practical_note": "白玫瑰餐厅做广南风味：白玫瑰蒸饺、炸云吞、高楼面三件套一次点齐；晚 8 点后游客集中，19:00 前落座最舒服。",
+          "time_guard": "20:30 前离席，回程打车回度假村，别在河岸逗留太晚。"
+        }
+      ],
+      "shopping_advice": {
+        "title": "古城看样不下单",
+        "description": "会安综合市场与 Reaching Out 手作店都在古城，布料、手作小物今天看样比价，裁缝定制留到明天再定。",
+        "url": "#shops",
+        "link_label": "查看购物指南"
+      },
+      "photo_advice": {
+        "title": "古城晨光与安邦午后",
+        "lighting": "上午顺光拍黄墙街巷，午后海滩高光适合逆光轮廓。",
+        "suitable_shots": [
+          "福建会馆天井的龙纹与红柱",
+          "来远桥对岸机位拍桥身与石狮",
+          "安邦海滩逆光剪影：人站水中，太阳在身后"
+        ],
+        "portrait_tip": "在会馆门口拍人像时先确认没挡到参拜动线，笑着点头示意即可。",
+        "shooting_plan": [
+          {
+            "time": "09:45",
+            "title": "黄墙巷·顺光",
+            "note": "让同行人走在巷中回头，墙和三角梅作背景。"
+          },
+          {
+            "time": "15:00",
+            "title": "安邦·逆光",
+            "note": "水没过脚踝站定，机位放低拍人与反光水面。"
+          },
+          {
+            "time": "19:30",
+            "title": "灯笼·夜拍",
+            "note": "用一根灯笼吊绳做前景构图，避开身后店铺招牌。"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "theme": "美山晨谒，午后转场美溪",
+      "area": "会安→岘港美溪",
+      "summary": "清晨 06:30 出发赴美山圣地（车程约 50 分钟），趁凉快逛占婆塔群；回会安退房取行李，午间转场岘港入住美溪海滩酒店；下午下海，晚上 21:00 看龙桥喷火秀（周五六日）。",
+      "periods": {
+        "morning": {
+          "title": "美山晨线",
+          "description": "06:30 出发，07:30 前到美山（06:00 已开门、门票约 15 万盾）；从 A 区主塔开始，沿环形走完 B/C/D 区，10:30 前下山返程。"
+        },
+        "afternoon": {
+          "title": "转场美溪",
+          "description": "12:00 回到会安度假村退房取行李；13:15 打车/包车赴岘港（约 50 分钟），14:30 入住美溪酒店，行李丢房间后马上下海。"
+        },
+        "evening": {
+          "title": "汉江夜",
+          "description": "18:30 美溪附近吃本地海鲜；20:45 到汉江东岸占位，21:00 看龙桥喷火喷水秀，结束后打车回酒店。"
+        }
+      },
+      "stops": [
+        {
+          "place_id": "my-son",
+          "arrival_time": "07:30",
+          "dwell_minutes": 150,
+          "transport_mode": "包车/Grab 长单",
+          "transfer_minutes": 60,
+          "distance_km": 40,
+          "estimated_cost": "门票约 15 万盾；车费按 Grab 实时计价",
+          "practical_note": "会安到美山约 40 公里、50–60 分钟，清晨出发最凉快；进门坐电瓶车到塔群起点，环形走 A→C→D 区，B 区红砖塔最出片；讲解靠手机里预存的中文资料，不用请地陪。",
+          "time_guard": "10:30 前下山返程，中午阳光毁照片也费体力。"
+        },
+        {
+          "place_id": "my-khe-beach",
+          "arrival_time": "14:40",
+          "dwell_minutes": 140,
+          "transport_mode": "包车/打车",
+          "transfer_minutes": 55,
+          "distance_km": 28,
+          "estimated_cost": "免费；躺椅伞约 5–10 万盾",
+          "practical_note": "到酒店先办入住把行李丢进房间再下海；美溪浪缓沙细，下水区有救生员，租伞椅约 5–10 万盾；16:40 回房间冲澡换衣。",
+          "time_guard": "17:30 前回住处休整，龙桥秀 21:00 要提前 20 分钟到位。"
+        },
+        {
+          "place_id": "be-man-seafood",
+          "arrival_time": "18:30",
+          "dwell_minutes": 90,
+          "transport_mode": "打车",
+          "transfer_minutes": 20,
+          "distance_km": 4,
+          "estimated_cost": "约 20–35 万盾/两人",
+          "practical_note": "本地海鲜大排档按斤点：花蟹、蛤蜊、烤鱿鱼；点单先确认『不要辣』，海鲜价格问清白板价再下单，结账核对账单。",
+          "time_guard": "20:10 前结账打车去汉江边，留足占位时间。"
+        },
+        {
+          "place_id": "dragon-bridge",
+          "arrival_time": "20:50",
+          "dwell_minutes": 45,
+          "transport_mode": "打车",
+          "transfer_minutes": 15,
+          "distance_km": 1.5,
+          "estimated_cost": "免费",
+          "practical_note": "20:50 到桥西侧观景位占好位置，21:00 整点喷火约 6 次再喷水；周五六日与节前夜有秀，以官方公告为准；结束后人流交织，往南绕行打车。",
+          "time_guard": "21:45 前离场，避开散场打车高峰。"
+        }
+      ],
+      "shopping_advice": {
+        "title": "转场日零负担",
+        "description": "换酒店日不购物：美溪一带只有泳具和防晒，想买的记进小本子，汉市场留给第 5 天。",
+        "url": "#shops",
+        "link_label": "查看购物指南"
+      },
+      "photo_advice": {
+        "title": "美山晨光与龙桥夜火",
+        "lighting": "清晨斜射光打亮红砖塔，夜里龙桥灯光与火焰。",
+        "suitable_shots": [
+          "A 区主塔侧面：站远用长焦压缩，避开人群",
+          "B 区红砖塔门洞框架构图",
+          "龙桥喷火瞬间：提前对焦桥头，连续快门"
+        ],
+        "portrait_tip": "美山遗址区地面碎石多，蹲拍时注意脚下；龙桥秀时用三脚架或靠栏杆稳定手机。",
+        "shooting_plan": [
+          {
+            "time": "08:00",
+            "title": "A 区·晨光",
+            "note": "站塔西侧拍东升侧光下的红砖纹理。"
+          },
+          {
+            "time": "08:40",
+            "title": "B 区·门洞",
+            "note": "用塔门框住远处塔尖，人物站门洞中央。"
+          },
+          {
+            "time": "21:00",
+            "title": "龙桥·喷火",
+            "note": "手机夜景模式+连拍，抓火舌腾起的瞬间。"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "theme": "巴拿山一日：云上佛手桥",
+      "area": "岘港·巴拿山",
+      "summary": "全天巴拿山：07:30 出发车程约 40 分钟，08:30 前取票排队上缆车（世界最长单线缆车之一），上午先拍佛手桥（人少），中午法国村午餐，下午逛空中花园与幻想公园，16:00 排队下山。",
+      "periods": {
+        "morning": {
+          "title": "缆车与金桥",
+          "description": "07:30 出发，08:15 到售票处取纸质票；08:30 上第一班缆车（约 20 分钟到山腰），直奔佛手桥拍照，再逛空中花园与杜鹃步道。"
+        },
+        "afternoon": {
+          "title": "法国村",
+          "description": "12:00 在法国村吃午餐（自助或单点）；下午坐小火车登顶看瀑布源头，或进幻想公园和酒窖，16:00 排队下山缆车。"
+        },
+        "evening": {
+          "title": "回城晚餐",
+          "description": "17:30 回到岘港市区；晚上在汉江河畔吃正餐（兰夫人越南菜），回酒店泡泳池犒劳一天。"
+        }
+      },
+      "stops": [
+        {
+          "place_id": "ba-na-hills",
+          "arrival_time": "08:30",
+          "dwell_minutes": 420,
+          "transport_mode": "包车（往返）",
+          "transfer_minutes": 40,
+          "distance_km": 25,
+          "estimated_cost": "门票含往返缆车约 75–95 万盾/人（以官网当天为准）",
+          "practical_note": "山下先取票再排缆车；园区有两条缆车线，分清『上山主缆』与『法国村短线』。回程 16:00 前排队，下山人多；园区地图截图存手机，金桥—花园—法国村三个区按时钟顺走。",
+          "time_guard": "金桥拍照排队超 20 分钟就先逛花园，回头再补拍。"
+        },
+        {
+          "place_id": "golden-bridge",
+          "arrival_time": "09:30",
+          "dwell_minutes": 60,
+          "transport_mode": "步行",
+          "transfer_minutes": 15,
+          "distance_km": 0.6,
+          "estimated_cost": "含门票",
+          "practical_note": "金桥上午 9:30 前人最少；最好的机位是桥下往回拍桥身与巨手，或站桥头拍仰角；桥面人流量大，用连拍模式挑最空的一帧。",
+          "time_guard": "10:40 前离开赶法国村，中午团客集中到这里。"
+        },
+        {
+          "place_id": "madame-lan",
+          "arrival_time": "18:45",
+          "dwell_minutes": 75,
+          "transport_mode": "打车",
+          "transfer_minutes": 20,
+          "distance_km": 8,
+          "estimated_cost": "约 20–30 万盾/两人",
+          "practical_note": "兰夫人是汉江河畔的越南正餐代表：春卷、烤鱼、米纸拼盘样样稳；想坐河景露台位要 18:30 前到，落座先点饮品再慢慢选菜。",
+          "time_guard": "20:00 前吃完，回酒店早点休息恢复体力。"
+        }
+      ],
+      "shopping_advice": {
+        "title": "巴拿山只买水和零食",
+        "description": "山上纪念品溢价高，同样的灯笼和咖啡回城买更划算；园区内只补水和零食。",
+        "url": "#shops",
+        "link_label": "查看购物指南"
+      },
+      "photo_advice": {
+        "title": "云上佛手桥",
+        "lighting": "上午山雾未散、顺光充足；金桥在云海之上最出片。",
+        "suitable_shots": [
+          "桥下仰拍巨手托桥的完整结构",
+          "桥头侧面拍桥身弧线与远山层次",
+          "雾散前拍一张云雾漫过桥面的『云上感』"
+        ],
+        "portrait_tip": "桥上晨雾与人群并存，拍人像把机位放低避开背景游客，人物侧身看远山。",
+        "shooting_plan": [
+          {
+            "time": "09:30",
+            "title": "桥下·巨手",
+            "note": "退到桥下步道，仰拍两只巨手与桥面。"
+          },
+          {
+            "time": "10:00",
+            "title": "桥头·纵深",
+            "note": "站桥头侧面，用栏杆引导线拍桥身远去。"
+          },
+          {
+            "time": "10:20",
+            "title": "雾散·云海",
+            "note": "趁雾没散尽抓一张桥在云中的全景。"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "theme": "五行山与山茶半岛",
+      "area": "岘港·南岸与半岛",
+      "summary": "上午登五行山（玄空洞、望海台），中午市区吃鱼饼粉；下午上山茶半岛灵应寺看观音像与岘港湾全景；傍晚顺路逛占婆博物馆和汉市场，晚上自由选餐。",
+      "periods": {
+        "morning": {
+          "title": "五行山",
+          "description": "08:30 打车 25 分钟到五行山，爬水云洞（玄空洞、望海台），石窟佛龛与光影是亮点；11:30 下山回市区。"
+        },
+        "afternoon": {
+          "title": "山茶半岛",
+          "description": "12:30 市区午餐（鱼饼粉 109）；14:00 打车上山茶半岛灵应寺，看 67 米观音像与台湾海峡侧海湾全景；16:30 返城。"
+        },
+        "evening": {
+          "title": "博物馆与市集",
+          "description": "17:15 占婆雕刻博物馆（闭馆前 1 小时），18:00 汉市场收摊前买手信；晚上美溪附近自由晚餐或再来一轮夜市宵夜。"
+        }
+      },
+      "stops": [
+        {
+          "place_id": "marble-mountains",
+          "arrival_time": "09:00",
+          "dwell_minutes": 150,
+          "transport_mode": "打车",
+          "transfer_minutes": 25,
+          "distance_km": 11,
+          "estimated_cost": "门票约 4 万盾、电梯另收（以现场为准）",
+          "practical_note": "主入口在水峰（Thủy Sơn）山下，先走玄空洞再到望海台；洞内佛像处有陡梯，穿防滑鞋；电梯可上下半山省体力，先问价再坐。",
+          "time_guard": "11:30 前离开，正午前回市区吃饭。"
+        },
+        {
+          "place_id": "bun-cha-ca-109",
+          "arrival_time": "12:30",
+          "dwell_minutes": 60,
+          "transport_mode": "打车",
+          "transfer_minutes": 25,
+          "distance_km": 12,
+          "estimated_cost": "约 5–7 万盾/人",
+          "practical_note": "鱼饼粉是岘港代表汤粉：清汤、手打鱼饼、油条泡汤；点「bún chả cá」即可，加鱼饼说「thêm giò」；拿号牌入座，食毕按号结账。",
+          "time_guard": "13:45 前吃完出发上山茶，下午行程紧凑。"
+        },
+        {
+          "place_id": "linh-ung-son-tra",
+          "arrival_time": "14:30",
+          "dwell_minutes": 120,
+          "transport_mode": "打车",
+          "transfer_minutes": 35,
+          "distance_km": 14,
+          "estimated_cost": "免费",
+          "practical_note": "灵应寺在山茶半岛 Bãi Bụt，观音像面朝大海；进大殿脱鞋、短裤无袖先套长裤外套；观音台下层平台是拍岘港湾全景的最佳机位。",
+          "time_guard": "17:00 前下山，天黑后盘山路弯多灯少。"
+        },
+        {
+          "place_id": "cham-museum",
+          "arrival_time": "17:15",
+          "dwell_minutes": 50,
+          "transport_mode": "打车",
+          "transfer_minutes": 25,
+          "distance_km": 9,
+          "estimated_cost": "门票约 6 万盾（以现场为准）",
+          "practical_note": "占婆博物馆闭馆约 17:30，17:15 前入场正好赶上一楼镇馆舞神像与露天庭院石碑；馆小，50 分钟足够，重点看占婆雕塑中的『微笑女神』。",
+          "time_guard": "若 17:00 前赶不到就跳过，把时间留给汉市场。"
+        },
+        {
+          "place_id": "han-market",
+          "arrival_time": "18:15",
+          "dwell_minutes": 60,
+          "transport_mode": "步行",
+          "transfer_minutes": 10,
+          "distance_km": 0.8,
+          "estimated_cost": "视购物而定",
+          "practical_note": "汉市场 19:00 前后陆续收摊：咖啡粉、腰果、鱼露、奥黛布料一次看齐；还价从报价六折起、整数成交；大件不带走，返程日到机场前再定夺。",
+          "time_guard": "19:30 前结束购物，晚上留出夜市宵夜时间。"
+        }
+      ],
+      "shopping_advice": {
+        "title": "汉市场采购日",
+        "description": "19:00 收摊前是汉市场黄金时段：咖啡、腰果、鱼露、布料集中采购，砍价从六折起。",
+        "url": "#shops",
+        "link_label": "查看购物指南"
+      },
+      "photo_advice": {
+        "title": "洞窟光影与山顶海湾",
+        "lighting": "石窟内天窗光束 + 午后山顶顺光看海。",
+        "suitable_shots": [
+          "玄空洞天窗射光下的佛像剪影",
+          "望海台俯瞰海岸线：横拍接全景",
+          "灵应寺观音像仰拍，天空留白"
+        ],
+        "portrait_tip": "洞内暗，开夜景模式让人物靠近光柱；寺内不拍正殿佛像正面，拍侧面与远景。",
+        "shooting_plan": [
+          {
+            "time": "09:40",
+            "title": "玄空洞·光束",
+            "note": "站光柱侧面拍剪影，脸朝向洞口方向。"
+          },
+          {
+            "time": "10:40",
+            "title": "望海台·海岸",
+            "note": "横屏接 3 张全景，回来拼宽幅。"
+          },
+          {
+            "time": "15:00",
+            "title": "观音像·仰拍",
+            "note": "蹲低仰拍观音与天空，避开电线。"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "theme": "机动日：占婆岛潜水（或海滩自由日）",
+      "area": "岘港—会安·占婆岛",
+      "summary": "机动日主推占婆岛（Cù Lao Chàm）浮潜/体验潜一日：清晨会安码头快艇出海，第一潜后岛上吃海鲜午餐，下午第二潜或沙滩自由活动；风浪大或体力不佳时切换美溪海滩自由日。",
+      "periods": {
+        "morning": {
+          "title": "出海",
+          "description": "06:45 从岘港出发赴会安码头（车程约 50 分钟）；08:00 快艇出海约 40 分钟抵占婆岛，先做浮潜/体验潜第一潜。"
+        },
+        "afternoon": {
+          "title": "海岛与返程",
+          "description": "12:00 岛上渔村吃海鲜午餐；下午做第二潜或在沙滩、珊瑚保护区浮潜，15:30 返航，16:30 回岘港。"
+        },
+        "evening": {
+          "title": "海边收尾",
+          "description": "傍晚回美溪海滩看日落，就近吃煎饼或汤粉，早睡为明天返程养神。"
+        }
+      },
+      "stops": [
+        {
+          "place_id": "blue-coral-divers",
+          "arrival_time": "07:30",
+          "dwell_minutes": 45,
+          "transport_mode": "包车",
+          "transfer_minutes": 55,
+          "distance_km": 30,
+          "estimated_cost": "潜水/浮潜一日约 120–180 万盾/人（以运营方报价为准）",
+          "practical_note": "出发前一晚 20:00 前与运营方确认集合时间与天气；早餐吃清淡、带晕船药；装备由运营方提供，怕冷自备潜水服内搭或水母衣。",
+          "time_guard": "前一晚必须确认成团；天气预报欠佳时果断切换海滩自由日 Plan B。"
+        },
+        {
+          "place_id": "my-khe-beach",
+          "arrival_time": "17:00",
+          "dwell_minutes": 75,
+          "transport_mode": "打车",
+          "transfer_minutes": 20,
+          "distance_km": 5,
+          "estimated_cost": "免费",
+          "practical_note": "潜水回来在美溪看日落最值：17:30 后金色时刻，沙滩西侧无遮挡；浪大就踩水不游远，别背着潜水装备下水。",
+          "time_guard": "18:30 前回酒店冲澡换晚餐衣服。"
+        },
+        {
+          "place_id": "banh-xeo-ba-duong",
+          "arrival_time": "19:15",
+          "dwell_minutes": 75,
+          "transport_mode": "打车",
+          "transfer_minutes": 15,
+          "distance_km": 4,
+          "estimated_cost": "约 8–12 万盾/人",
+          "practical_note": "岘港脆煎饼名店：bánh xèo 配生菜薄荷，蘸鱼露包着吃；招牌虾芽菜馅，怕油腻可点半份，旁边常有本地饮品摊。",
+          "time_guard": "20:45 前吃完，避开 21:00 夜宵高峰。"
+        }
+      ],
+      "shopping_advice": {
+        "title": "潜水日零购物",
+        "description": "潜水日随身只带防水袋和手机；岛上除午餐外不购物，纪念品一律留给明天机场补货。",
+        "url": "#shops",
+        "link_label": "查看购物指南"
+      },
+      "photo_advice": {
+        "title": "海岛蓝与日落金",
+        "lighting": "海上阳光烈 + 傍晚金色逆光。",
+        "suitable_shots": [
+          "快艇出海时拍船尾浪花（连拍）",
+          "浮潜回来在浅滩拍水底脚影",
+          "美溪日落剪影：人站浪线前"
+        ],
+        "portrait_tip": "水下拍照先确认防水壳/防水袋密闭，回船再检查；日落剪影让人物站定不动两秒。",
+        "shooting_plan": [
+          {
+            "time": "08:20",
+            "title": "出海·浪花",
+            "note": "坐船尾，手机横拍船尾翻起的白色水花。"
+          },
+          {
+            "time": "14:30",
+            "title": "浅滩·水影",
+            "note": "浅水区站定，拍水面下的脚与光斑。"
+          },
+          {
+            "time": "17:45",
+            "title": "美溪·金色时刻",
+            "note": "逆光拍两人剪影，太阳刚好落在肩膀旁。"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "theme": "晨起返航：美溪晨走与跨口岸回家",
+      "area": "岘港—香港—深圳",
+      "summary": "07:00 在美溪海滩晨走拍最后一张，08:00 退房出发，08:30 到机场（11:50 航班留足 2.5 小时）；14:50 落地香港，取行李后经莲塘口岸回深圳，预计 17:00 前后到家。",
+      "periods": {
+        "morning": {
+          "title": "最后的海边",
+          "description": "07:00 晨走美溪沙滩（清晨最凉快人最少），07:45 回酒店早餐，08:30 退房，09:00 前到机场。"
+        },
+        "afternoon": {
+          "title": "跨口岸回家",
+          "description": "11:50 UO563 起飞、14:50 落地香港 T1；取行李后乘跨境车经莲塘口岸回深圳，车程约 60–80 分钟，预计 17:00 前后到家。"
+        },
+        "evening": {
+          "title": "到家",
+          "description": "入境后行程结束，整理照片和战利品，下次再会。"
+        }
+      },
+      "stops": [
+        {
+          "place_id": "my-khe-beach",
+          "arrival_time": "07:10",
+          "dwell_minutes": 30,
+          "transport_mode": "步行",
+          "transfer_minutes": 0,
+          "distance_km": 0,
+          "estimated_cost": "免费",
+          "practical_note": "行李前一晚收好，晨走只带手机和房卡；清晨海面平、光线柔，沙滩北段人少适合拍背影。",
+          "time_guard": "07:50 必须回酒店早餐加退房。"
+        },
+        {
+          "place_id": "airport-dad",
+          "arrival_time": "09:00",
+          "dwell_minutes": 150,
+          "transport_mode": "打车",
+          "transfer_minutes": 20,
+          "distance_km": 5,
+          "estimated_cost": "打车约 3–5 万盾",
+          "practical_note": "美溪到机场约 15 分钟；UO563 11:50 起飞，留 2.5 小时以上从容值机；离境安检后免税店可补咖啡腰果，价签都是盾，结账前心算汇率。",
+          "time_guard": "09:30 前过完安检，之后时间全归自己。"
+        }
+      ],
+      "shopping_advice": {
+        "title": "机场补货",
+        "description": "离境前在机场免税店补咖啡和腰果；价签为越南盾，结账前按当日汇率心算一遍再下手。",
+        "url": "#shops",
+        "link_label": "查看购物指南"
+      },
+      "photo_advice": {
+        "title": "清晨的海与离境剪影",
+        "lighting": "日出后低角度晨光，海面反光柔。",
+        "suitable_shots": [
+          "晨跑者与海的侧逆光剪影",
+          "沙滩脚印特写（蹲低俯拍）",
+          "候机时拍窗外的机翼与蓝天"
+        ],
+        "portrait_tip": "晨光下拍人像用侧光，脸朝阳光方向 45 度轮廓最立体。",
+        "shooting_plan": [
+          {
+            "time": "07:15",
+            "title": "晨走·剪影",
+            "note": "让同行人走在前方，太阳在身后斜照。"
+          },
+          {
+            "time": "07:30",
+            "title": "脚印·俯拍",
+            "note": "蹲低拍一排脚印延伸到海，水声当背景。"
+          },
+          {
+            "time": "12:30",
+            "title": "机翼·窗景",
+            "note": "登机后拍窗外云层，曝光以天空为准。"
+          }
+        ]
+      }
+    }
+  ],
+  "places": [
+    {
+      "id": "hoi-an-old-town",
+      "type": "sight",
+      "display_name": "会安古城",
+      "local_name": "Phố cổ Hội An",
+      "english_name": "Hoi An Old Town",
+      "area": "会安老城",
+      "map_query": "Hoi An Old Town, Quảng Nam",
+      "source_url": "https://you.ctrip.com/sight/danang669/52802.html",
+      "description": "东南亚保存最完好的传统贸易港，15-19世纪曾是与中国、日本往来的繁华商埠。古城内福建会馆、广肇会馆等华人会馆与日式廊桥并存，中式、日式与越南建筑风格有机融合；白天逛会馆、喝滴漏咖啡，入夜后整条街挂满灯笼，变身灯笼世界。古城本身免费，景点联票8万越南盾3处或12万越南盾5处（含日本桥等，优惠以现场为准）。",
+      "hours": "全天开放",
+      "closed_days": "无固定闭馆日",
+      "duration_minutes": 240,
+      "scheduled_label": "已安排",
+      "latitude": 15.8771,
+      "longitude": 108.326,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/hoi-an-old-town-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/100i0x000000lf46pEB79.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/52802.html",
+          "mime_type": "image/jpeg",
+          "width": 3000,
+          "height": 1999,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "landscape",
+          "module": "sights",
+          "role": "gallery",
+          "verification_evidence": "assets/places/hoi-an-old-town-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "japanese-bridge",
+      "type": "sight",
+      "display_name": "来远桥（日本桥）",
+      "local_name": "Chùa Cầu",
+      "english_name": "Japanese Covered Bridge",
+      "area": "会安老城",
+      "map_query": "Japanese Covered Bridge (Chùa Cầu), Hoi An",
+      "source_url": "https://you.ctrip.com/sight/danang669/52833.html",
+      "description": "建于1593年的木构廊桥，由日本商人始建、后由华人重建并立“来远桥”碑，桥东端由狗、西端由猴石像看守（猴年开工、狗年完工）。桥宽不到两米，红漆木梁与白墙黛瓦倒映在秋盆河上，是会安古城的标志与必拍机位；廊桥中段设有小展厅。属会安景点联票范围，持联票即可进入。",
+      "hours": "09:00-22:00",
+      "closed_days": "无固定闭馆日",
+      "duration_minutes": 40,
+      "scheduled_label": "已安排",
+      "latitude": 15.8767,
+      "longitude": 108.3259,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/japanese-bridge-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0101012000rgyuyk30963.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/52833.html",
+          "mime_type": "image/jpeg",
+          "width": 2500,
+          "height": 1875,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "landscape",
+          "module": "sights",
+          "role": "gallery",
+          "verification_evidence": "assets/places/japanese-bridge-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "ba-na-hills",
+      "type": "sight",
+      "display_name": "巴拿山太阳世界",
+      "local_name": "Sun World Bà Nà Hills",
+      "english_name": "Sun World Ba Na Hills",
+      "area": "岘港·巴拿山",
+      "map_query": "Sun World Bà Nà Hills, Đà Nẵng",
+      "source_url": "https://you.ctrip.com/sight/danang669/147426.html",
+      "description": "法国殖民时期留下的高山避暑地，海拔约1487米，被称作“人间天堂”。最具代表性的是长达5.8公里的世界级跨山缆车（途中可俯瞰丛林），山顶的法国村、梦幻花园与室内游乐园适合玩一整天；佛手桥也在园区内。园区08:00-22:00开放，建议留足一整天（携程标注建议游玩1天）。，获评2026亚洲100亲子景点。",
+      "hours": "08:00-22:00",
+      "closed_days": "无固定闭馆日",
+      "duration_minutes": 600,
+      "scheduled_label": "已安排",
+      "latitude": 15.9956,
+      "longitude": 107.9957,
+      "ratings": [],
+      "gallery_featured": true,
+      "images": [
+        {
+          "file": "assets/places/ba-na-hills-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0105w120009lobq759331.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/147426.html",
+          "mime_type": "image/jpeg",
+          "width": 1024,
+          "height": 682,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "landscape",
+          "module": "sights",
+          "role": "gallery",
+          "verification_evidence": "assets/places/ba-na-hills-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        },
+        {
+          "file": "assets/places/ba-na-hills-02.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/1lo3812000tfmnhpb8300.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/147426.html",
+          "mime_type": "image/jpeg",
+          "width": 4500,
+          "height": 2501,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "landscape",
+          "module": "sights",
+          "role": "gallery",
+          "verification_evidence": "assets/places/ba-na-hills-02.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "phone": "+84-90-5766777",
+      "address": "An Son Village, Hoa Ninh, Hoa Vang, Da Nang"
+    },
+    {
+      "id": "golden-bridge",
+      "type": "sight",
+      "display_name": "佛手桥（金桥）",
+      "local_name": "Cầu Vàng",
+      "english_name": "Golden Bridge",
+      "area": "岘港·巴拿山",
+      "map_query": "Golden Bridge, Sun World Bà Nà Hills, Đà Nẵng",
+      "source_url": "https://you.ctrip.com/sight/danang669/5080683.html",
+      "description": "2018年开放的网红地标，全长约150米、海拔1000余米，巨大的混凝土“佛手”从山坡托起金色桥身，上方就是巴拿山缆车站与天堂花园，晴天可远眺东海与安南山脉。桥体本身20-45分钟即可逛完，是巴拿山一日游里必打卡的一站（在园区内，随园区开放及索道运营）。",
+      "hours": "08:00-19:00",
+      "closed_days": "无固定闭馆日",
+      "duration_minutes": 45,
+      "scheduled_label": "已安排",
+      "latitude": 15.9949,
+      "longitude": 107.9956,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/golden-bridge-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/100o1c000001d9jff4D63.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/5080683.html",
+          "mime_type": "image/jpeg",
+          "width": 3002,
+          "height": 2000,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "landscape",
+          "module": "sights",
+          "role": "gallery",
+          "verification_evidence": "assets/places/golden-bridge-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "my-son",
+      "type": "sight",
+      "display_name": "美山圣地",
+      "local_name": "Mỹ Sơn Sanctuary",
+      "english_name": "My Son Sanctuary",
+      "area": "会安西郊·美山",
+      "map_query": "My Son Sanctuary, Duy Xuyên, Quảng Nam",
+      "source_url": "https://you.ctrip.com/sight/danang669/54101.html",
+      "description": "4-13世纪占婆王国的印度教宗教圣地，有“越南的吴哥窟”之称，1999年列入世界遗产。山谷中现存约70座红砖塔庙遗迹，塔身砖雕精美；园区有电瓶车接驳与占婆舞蹈表演，清晨前往光线最好、人少。距会安约40公里、岘港约60公里，建议留出半天（携程标注建议游玩3-5小时）。",
+      "hours": "06:00-17:00",
+      "closed_days": "无固定闭馆日",
+      "duration_minutes": 240,
+      "scheduled_label": "已安排",
+      "latitude": 15.7624,
+      "longitude": 108.1246,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/my-son-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/100h0z000000mw5y30E3B.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/54101.html",
+          "mime_type": "image/jpeg",
+          "width": 1280,
+          "height": 891,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "landscape",
+          "module": "sights",
+          "role": "gallery",
+          "verification_evidence": "assets/places/my-son-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "phone": "+84-235-3731309",
+      "address": "Thánh địa Mỹ Sơn, Duy Xuyên, Quảng Nam"
+    },
+    {
+      "id": "marble-mountains",
+      "type": "sight",
+      "display_name": "五行山",
+      "local_name": "Ngũ Hành Sơn",
+      "english_name": "The Marble Mountains",
+      "area": "岘港南郊·五行山",
+      "map_query": "Marble Mountains (Ngũ Hành Sơn), Da Nang",
+      "source_url": "https://you.ctrip.com/sight/danang669/134902.html",
+      "description": "岘港南部由金、木、水、火、土五座石灰岩山峰组成的景区，山中洞穴（水岩洞、火岩洞）与寺庙、佛塔交错，既适合钻洞拍光柱，也是本地人礼佛之地；山下大理石村出售石雕。门票与开放时间以现场为准（携程记录：全年07:00-17:30开放，具体营业状态以当天为准）。距市区约9公里，与美溪海滩同侧，适合安排半天。",
+      "hours": "07:00-17:30",
+      "closed_days": "无固定闭馆日",
+      "duration_minutes": 180,
+      "scheduled_label": "已安排",
+      "latitude": 16.0047,
+      "longitude": 108.2614,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/marble-mountains-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0106f120008g5dsbvB9DB.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/134902.html",
+          "mime_type": "image/jpeg",
+          "width": 2500,
+          "height": 1667,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "landscape",
+          "module": "sights",
+          "role": "gallery",
+          "verification_evidence": "assets/places/marble-mountains-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "phone": "+84-236-3961114"
+    },
+    {
+      "id": "linh-ung-son-tra",
+      "type": "sight",
+      "display_name": "山茶半岛灵应寺",
+      "local_name": "Chùa Linh Ứng (Bãi Bụt)",
+      "english_name": "Linh Ung Pagoda - Bai But",
+      "area": "山茶半岛",
+      "map_query": "Linh Ung Pagoda (Bãi Bụt), Son Tra Peninsula, Da Nang",
+      "source_url": "https://danangfantasticity.com/en/linh-ung-temple-the-peaceful-gem-in-danang-city/",
+      "description": "岘港规模最大的寺庙（官方旅游门户介绍），坐落在山茶半岛形如龟背的山丘上、面向大海。最醒目的是立于山顶的白色观音像，高67米、共12层，是越南最高的观音雕像，各层设佛龛、顶层供奉过去七佛；寺内各殿楹联多为汉字，印证了当地华人历史。清晨到访人少、光线柔和，可俯瞰岘港市区与海湾，是看日出的绝佳位置。寺庙免费开放。",
+      "hours": "全天开放",
+      "closed_days": "无固定闭馆日",
+      "duration_minutes": 90,
+      "scheduled_label": "已安排",
+      "latitude": 16.0994,
+      "longitude": 108.276,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/linh-ung-son-tra-01.jpg",
+          "download_url": "https://danangfantasticity.com/wp-content/uploads/2019/09/chua-linh-ung-chon-binh-yen-giua-long-da-nang-01.jpg",
+          "source_page": "https://danangfantasticity.com/en/linh-ung-temple-the-peaceful-gem-in-danang-city/",
+          "mime_type": "image/jpeg",
+          "width": 2000,
+          "height": 1332,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "official_tourism_portal",
+          "visual_subject_type": "landscape",
+          "module": "sights",
+          "role": "gallery",
+          "verification_evidence": "assets/places/linh-ung-son-tra-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "free_entry": true
+    },
+    {
+      "id": "my-khe-beach",
+      "type": "sight",
+      "display_name": "美溪海滩",
+      "local_name": "Bãi biển Mỹ Khê",
+      "english_name": "My Khe Beach",
+      "area": "岘港美溪",
+      "map_query": "My Khe Beach, Da Nang",
+      "source_url": "https://you.ctrip.com/sight/danang669/134904.html",
+      "description": "岘港东海岸最出名的公共海滩，细白沙滩延绵数公里、海水清澈，曾被多家媒体列为全球最美海滩之一。清晨适合游泳与看日出，白天可租躺椅晒太阳，还有摩托艇、香蕉船、拖伞等水上项目，价格比普吉、三亚便宜；沙滩沿线海鲜餐厅密集。免费开放（公共海滩），建议以2-6小时安排（携程标注）。",
+      "hours": "全天开放",
+      "closed_days": "无固定闭馆日",
+      "duration_minutes": 240,
+      "scheduled_label": "已安排",
+      "latitude": 16.06,
+      "longitude": 108.2465,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/my-khe-beach-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0101012000jht5fki84BE.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/134904.html",
+          "mime_type": "image/jpeg",
+          "width": 2500,
+          "height": 1667,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "landscape",
+          "module": "sights",
+          "role": "gallery",
+          "verification_evidence": "assets/places/my-khe-beach-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "free_entry": true
+    },
+    {
+      "id": "an-bang-beach",
+      "type": "sight",
+      "display_name": "安邦海滩",
+      "local_name": "An Bàng Beach",
+      "english_name": "An Bang Beach",
+      "area": "会安·安邦",
+      "map_query": "An Bang Beach, Hoi An",
+      "source_url": "https://you.ctrip.com/sight/danang669/5178500.html",
+      "description": "会安古镇以北约4公里的安静海滩，没有美溪那么热闹，适合躺平晒太阳、喝椰汁发呆。沙滩上遍布草棚酒吧与海鲜餐厅，可以现点现烤；下午退潮后沙面平整，适合散步。免费开放。",
+      "hours": "全天开放",
+      "closed_days": "无固定闭馆日",
+      "duration_minutes": 180,
+      "scheduled_label": "已安排",
+      "latitude": 15.9024,
+      "longitude": 108.333,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/an-bang-beach-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0HJ1n12000h0dewnc251A.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/5178500.html",
+          "mime_type": "image/jpeg",
+          "width": 1080,
+          "height": 606,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "landscape",
+          "module": "sights",
+          "role": "gallery",
+          "verification_evidence": "assets/places/an-bang-beach-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "free_entry": true
+    },
+    {
+      "id": "dragon-bridge",
+      "type": "sight",
+      "display_name": "龙桥",
+      "local_name": "Cầu Rồng",
+      "english_name": "Dragon Bridge",
+      "area": "岘港汉江",
+      "map_query": "Dragon Bridge, Da Nang",
+      "source_url": "https://you.ctrip.com/sight/danang669/1747958.html",
+      "description": "2013年通车的韩江跨江大桥，桥身设计成一条金色巨龙，是岘港夜景C位：入夜后灯光变换色彩。周五至周日21:00龙头会定时喷火、喷水（以官方公告为准），届时桥上与江畔聚集大量观众；平时桥面可步行横穿韩江，白天适合拍桥身全貌，晚上拍灯光。免费，步行或乘车经过均可。",
+      "hours": "全天开放",
+      "closed_days": "无固定闭馆日",
+      "duration_minutes": 40,
+      "scheduled_label": "已安排",
+      "latitude": 16.0614,
+      "longitude": 108.2275,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/dragon-bridge-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/100g0x000000lewjwFF5F.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/1747958.html",
+          "mime_type": "image/jpeg",
+          "width": 2851,
+          "height": 2000,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "landscape",
+          "module": "sights",
+          "role": "gallery",
+          "verification_evidence": "assets/places/dragon-bridge-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "free_entry": true
+    },
+    {
+      "id": "cham-museum",
+      "type": "sight",
+      "display_name": "占婆雕刻博物馆",
+      "local_name": "Bảo tàng Điêu khắc Chăm",
+      "english_name": "Da Nang Museum of Cham Sculpture",
+      "area": "岘港市区",
+      "map_query": "Museum of Cham Sculpture, 02 D. 2 Tháng 9, Da Nang",
+      "source_url": "https://you.ctrip.com/sight/danang669/54103.html",
+      "description": "建于1915年，藏有中越地区出土的7-15世纪占婆石雕与陶雕近千件，美山圣地出土文物在这里也能看到复原模型；建筑本身仿占婆塔式并刷成明黄色。对历史与雕刻感兴趣的值得专程前往，逛完约1-2小时。全年07:00-17:00开放。",
+      "hours": "07:00-17:00",
+      "closed_days": "无固定闭馆日",
+      "duration_minutes": 90,
+      "scheduled_label": "已安排",
+      "latitude": 16.0607,
+      "longitude": 108.2228,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/cham-museum-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0105r12000f6tswdw4265.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/54103.html",
+          "mime_type": "image/jpeg",
+          "width": 2500,
+          "height": 1875,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "landscape",
+          "module": "sights",
+          "role": "gallery",
+          "verification_evidence": "assets/places/cham-museum-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "phone": "+84-236-3572935"
+    },
+    {
+      "id": "cathedral",
+      "type": "sight",
+      "display_name": "岘港大教堂（粉红教堂）",
+      "local_name": "Nhà thờ Con Gà",
+      "english_name": "Da Nang Cathedral",
+      "area": "岘港市区",
+      "map_query": "Da Nang Cathedral (Nhà thờ Con Gà), 156 Trần Phú, Da Nang",
+      "source_url": "https://you.ctrip.com/sight/danang669/134908.html",
+      "description": "1923年法国殖民时期建造的主教座堂，粉红色外墙与中世纪风格彩绘玻璃窗在越南中部独树一帜，高耸钟塔上是标志性的公鸡风向标，故俗称“粉红教堂/鸡教堂”。参观免费，但弥撒时段不开放参观（周日有弥撒；携程记录周一至周六开放参观，周日不开放）。旁边圣保罗女修道院的修女穿白衣的景象也常入镜。",
+      "hours": "周一至周六 08:00-11:30、13:30-16:30",
+      "closed_days": "弥撒时段不开放游客参观",
+      "duration_minutes": 40,
+      "scheduled_label": "备选",
+      "latitude": 16.0666,
+      "longitude": 108.2206,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/cathedral-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/10041b000001an3pj444A.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/134908.html",
+          "mime_type": "image/jpeg",
+          "width": 4256,
+          "height": 2832,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "landscape",
+          "module": "sights",
+          "role": "gallery",
+          "verification_evidence": "assets/places/cathedral-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "free_entry": true
+    },
+    {
+      "id": "hoi-an-memories-show",
+      "type": "sight",
+      "display_name": "印象会安演出（会安记忆）",
+      "local_name": "Ký Ức Hội An",
+      "english_name": "Hoi An Memories Show",
+      "area": "会安",
+      "map_query": "Hoi An Memories Show, 88 Tran Quang Khai, Hoi An",
+      "source_url": "https://you.ctrip.com/sight/danang669/4379377.html",
+      "description": "怀江畔的印象主题公园内的大型实景演出，25000平方米水上舞台、近500名演员身着奥黛，以五幕呈现会安400年商港史（远航、婚礼、战争与生活），被世界旅游奖评为2023年度文化旅游娱乐综合体。主题公园16:00开门，演出每晚一场20:00-21:00、约60分钟；每周二休演（携程记录：周一、周三至周日20:00-21:00开放，周二不开放）。建议提前在网上订座，到场后先在园区逛展再入座。",
+      "hours": "20:00-21:00（仅晚间一场）",
+      "closed_days": "以官网排期为准",
+      "duration_minutes": 120,
+      "scheduled_label": "备选",
+      "latitude": 15.8799,
+      "longitude": 108.335,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/hoi-an-memories-show-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0104x120009mjd2b7278A.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/4379377.html",
+          "mime_type": "image/jpeg",
+          "width": 1000,
+          "height": 667,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "landscape",
+          "module": "sights",
+          "role": "gallery",
+          "verification_evidence": "assets/places/hoi-an-memories-show-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "phone": "+84-1900636600",
+      "address": "88 Tran Quang Khai Street, Hoi An"
+    },
+    {
+      "id": "airport-dad",
+      "type": "support",
+      "display_name": "岘港国际机场",
+      "local_name": "Sân bay Quốc tế Đà Nẵng",
+      "english_name": "Da Nang International Airport (DAD)",
+      "area": "岘港·机场",
+      "map_query": "Da Nang International Airport (DAD), Hòa Thuận Tây, Đà Nẵng",
+      "source_url": "https://danangfantasticity.com/en/guide-for-visitors-arriving-at-and-departing-from-da-nang-international-airport/",
+      "description": "越南中部最大的航空门户（官方旅游门户介绍），距市中心约3公里。T1为国内航站楼、T2为国际航站楼，两楼之间由带顶连廊相连；到达层设旅客服务中心。抵离时注意区分航站楼，机场到美溪海滩车程约10-15分钟，到会安约40-50分钟。本任务封面说明由两人2月往返，落地后建议用Grab打车或酒店接机。",
+      "hours": "全天开放",
+      "closed_days": [],
+      "latitude": 16.0439,
+      "longitude": 108.1994,
+      "ratings": []
+    },
+    {
+      "id": "silkotel-hoi-an",
+      "type": "hotel",
+      "display_name": "拥抱集团丝绸豪华水疗酒店",
+      "local_name": "Silkotel Hoi An",
+      "english_name": "Silkotel Hoi An",
+      "map_query": "Silkotel Hoi An, 14 Hung Vuong, Hoi An",
+      "source_url": "https://hotels.ctrip.com/hotels/5215820.html",
+      "address": "14 Hùng Vương, Cẩm Phô, Hội An（会安古城西侧）",
+      "area": "会安老城",
+      "description": "位于会安古城旁 Hùng Vương 街的精品水疗酒店，步行可达怀江与夜市；含水疗设施，适合前两晚会安度假段的节奏。",
+      "hours": "前台 24 小时",
+      "closed_days": "无固定闭馆日",
+      "latitude": 15.8794893,
+      "longitude": 108.3223668,
+      "transport_note": "距古城步行约 10 分钟；到岘港国际机场约 45–50 分钟车程",
+      "images": [
+        {
+          "file": "assets/places/silkotel-hoi-an-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/1ik0q12000nyvsyd07BC1_W_1280_853_R5_Q70.jpg",
+          "source_page": "https://hotels.ctrip.com/hotels/5215820.html",
+          "mime_type": "image/jpeg",
+          "width": 1280,
+          "height": 853,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_hotel_page",
+          "visual_subject_type": "place_exterior",
+          "module": "stay",
+          "role": "gallery",
+          "verification_evidence": "assets/places/silkotel-hoi-an-01.jpg",
+          "source_identity_bound": true,
+          "verification_evidence_text": "携程官方酒店页(5215820)酒店图库；HTTP200+1280x853 解码通过",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        },
+        {
+          "file": "assets/places/silkotel-hoi-an-02.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/1ik6012000nqhj7kq6BA1_W_1280_853_R5_Q70.jpg",
+          "source_page": "https://hotels.ctrip.com/hotels/5215820.html",
+          "mime_type": "image/jpeg",
+          "width": 1280,
+          "height": 853,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_hotel_page",
+          "visual_subject_type": "room",
+          "module": "stay",
+          "role": "gallery",
+          "verification_evidence": "assets/places/silkotel-hoi-an-02.jpg",
+          "source_identity_bound": true,
+          "verification_evidence_text": "携程官方酒店页(5215820)酒店图库；HTTP200+1280x853 解码通过",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "han-market",
+      "type": "shop",
+      "display_name": "汉市场",
+      "local_name": "Chợ Hàn",
+      "english_name": "Han Market",
+      "area": "岘港市区",
+      "map_query": "Han Market (Chợ Hàn), 119 Tran Phu, Da Nang",
+      "source_url": "https://danangfantasticity.com/en/han-market/",
+      "description": "岘港市中心韩江畔的老牌综合市场，17世纪起便是中越贸易枢纽，1989-1990年重建为两层通透的建筑（官方旅游门户介绍）。一楼卖海鲜干货、鱼露、烘焙腰果、热带水果与咖啡，二楼是布料、成衣、鞋包与纪念品，还能现场量裁奥黛；市场里就有本地咖啡品牌Trình的摊位（Bạch Đằng入口01号，7:30-19:30）。离粉红教堂步行约5分钟，适合离境前一次买齐伴手礼。",
+      "hours": "约 06:00-21:00（每天开放；具体以现场为准）",
+      "closed_days": "无固定闭馆日",
+      "category": "综合市场",
+      "buying_tip": "先逛一圈比价再买；干货腰果按克称重、先问单价；对半砍价是常态，纸币当面点清；奥黛定制可问清交期再付定金。",
+      "brand_highlights": [
+        "一楼特产干货＋二楼布料服装的分区格局",
+        "ao dai 奥黛可现场量裁，传闻最快约1小时可取（以店家为准）",
+        "鱼露、海鲜干货与烘焙腰果是岘港本地招牌",
+        "Trình 咖啡亭（入口01号）7:30-19:30可喝滴漏咖啡"
+      ],
+      "scheduled_label": "已安排",
+      "latitude": 16.069,
+      "longitude": 108.2236,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/han-market-01.jpg",
+          "download_url": "https://danangfantasticity.com/wp-content/uploads/2017/06/cho-han-danang-01.jpg",
+          "source_page": "https://danangfantasticity.com/en/han-market/",
+          "mime_type": "image/jpeg",
+          "width": 1024,
+          "height": 768,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "official_tourism_portal",
+          "visual_subject_type": "landscape",
+          "module": "shops",
+          "role": "gallery",
+          "verification_evidence": "assets/places/han-market-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "hoi-an-night-market",
+      "type": "shop",
+      "display_name": "会安夜市",
+      "local_name": "Chợ đêm Hội An",
+      "english_name": "Hoi An Night Market",
+      "area": "会安老城",
+      "map_query": "Hoi An Night Market, Nguyễn Hoàng Street, Hoi An",
+      "source_url": "https://you.ctrip.com/sight/danang669/142962582.html",
+      "description": "古城东北侧、紧邻安会桥的步行夜市，以Nguyễn Hoàng街为中心，入夜后整条街挂满彩色灯笼，档口售卖灯笼、手作小物、纪念品与烤串、法棍、果汁冰沙等小吃（携程全年18:00-22:00开放）。与白天安静的古宅对比强烈，是第1天晚上最快进入“会安氛围”的地方；逛完夜市可顺路到秋盆河边放水灯。",
+      "hours": "18:00-22:00",
+      "closed_days": "无固定闭馆日",
+      "category": "夜市",
+      "buying_tip": "19点后灯全亮最出片；小吃先看后买、谈好价再动手；灯笼小件（布灯/纸灯）对半砍价常见；河边水灯船码头在夜市南端。",
+      "brand_highlights": [
+        "彩色灯笼街与夜市小吃摊",
+        "烤串、越式法棍、果汁冰沙等夜市招牌",
+        "手作灯笼与纪念品摊位密集",
+        "紧邻安会桥与秋盆河，水灯船码头在旁"
+      ],
+      "scheduled_label": "已安排",
+      "latitude": 15.8765,
+      "longitude": 108.3346,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/hoi-an-night-market-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0101v12000rduj0w814D7.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/142962582.html",
+          "mime_type": "image/jpeg",
+          "width": 2500,
+          "height": 1667,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "landscape",
+          "module": "shops",
+          "role": "gallery",
+          "verification_evidence": "assets/places/hoi-an-night-market-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "hoi-an-central-market",
+      "type": "shop",
+      "display_name": "会安综合市场",
+      "local_name": "Chợ Hội An",
+      "english_name": "Hoi An Central Market",
+      "area": "会安老城",
+      "map_query": "Hoi An Central Market (Chợ Hội An), Tran Phu Street, Hoi An",
+      "source_url": "https://danangfantasticity.com/en/hoi-an-market/",
+      "description": "位于古城中心Trần Phú街、紧挨Bạch Đằng河岸的传统市场（官方旅游门户介绍），沿用中部越南市场按品类分区的格局：蔬果、香料、海鲜与干货一侧，布料、鞋包、皮具与纪念品另一侧。规模不大但烟火气浓，清晨最鲜活——当地主妇在此买菜议价，游客则买布、偿小吃、看他们当场分装农产品。逛完正好沿河散步回古宅区。",
+      "hours": "约 05:00-18:00（官方建议时段；以现场为准）",
+      "closed_days": "无固定闭馆日",
+      "category": "综合市场",
+      "buying_tip": "清早6点前后最热闹；布料摊位可整匹买也可零剪；干货与鱼露注意密封托运；通道窄、人多，随身包背前。",
+      "brand_highlights": [
+        "蔬果/香料/海鲜与布料/鞋包分区摆放",
+        "官方建议清晨前往感受最鲜活的交易氛围",
+        "本地小吃与现做小食可现买现吃",
+        "紧邻秋盆河岸，逛完可沿河散步"
+      ],
+      "scheduled_label": "备选",
+      "latitude": 15.8776,
+      "longitude": 108.3305,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/hoi-an-central-market-01.jpg",
+          "download_url": "https://danangfantasticity.com/wp-content/uploads/2026/07/cho-hoi-an-2-scaled.jpg",
+          "source_page": "https://danangfantasticity.com/en/hoi-an-market/",
+          "mime_type": "image/jpeg",
+          "width": 2560,
+          "height": 1706,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "official_tourism_portal",
+          "visual_subject_type": "landscape",
+          "module": "shops",
+          "role": "gallery",
+          "verification_evidence": "assets/places/hoi-an-central-market-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "reaching-out-teahouse",
+      "type": "shop",
+      "display_name": "Reaching Out 茶室手作店",
+      "local_name": "Reaching Out Teahouse & Arts",
+      "english_name": "Reaching Out",
+      "area": "会安老城",
+      "map_query": "Reaching Out Teahouse, 131 Tran Phu, Hoi An",
+      "source_url": "https://www.airbnb.cn/things-to-do/places/2202431",
+      "description": "古城Trần Phú街上的社会企业茶室与手作店（Airbnb“Reaching Out Arts & Crafts”收录确认其存在与定位），员工以听障人士为主，主打“静默茶艺”：用文字牌点单，用心喝一杯越南茶（具体经营信息以门店为准，出发前确认）。店内兼售越南手作礼品与环保织物，消费即是对残疾人就业与公平贸易的支持。",
+      "hours": "以现场为准（出发前确认）",
+      "closed_days": "无固定闭馆日",
+      "category": "手作与茶室",
+      "buying_tip": "进门按提示用便签点茶，安静从容地坐半小时；买手作礼品当伴手礼更有温度；与旁边的裁缝街一起逛，半天可联动。",
+      "brand_highlights": [
+        "听障员工为主的社区企业（以门店介绍为准）",
+        "静默茶艺体验＋越南手作礼品",
+        "支持公平贸易与残障人士就业"
+      ],
+      "scheduled_label": "备选",
+      "latitude": 15.877,
+      "longitude": 108.3273,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/reaching-out-01.jpg",
+          "download_url": "https://z1.muscache.cn/im/pictures/013abffe-6238-4276-b330-a17942bf67df.jpg",
+          "source_page": "https://www.airbnb.cn/things-to-do/places/2202431",
+          "mime_type": "image/jpeg",
+          "width": 1200,
+          "height": 1800,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "booking_listing",
+          "visual_subject_type": "landscape",
+          "module": "shops",
+          "role": "gallery",
+          "verification_evidence": "assets/places/reaching-out-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "yaly-couture",
+      "type": "shop",
+      "display_name": "Yaly 裁缝",
+      "local_name": "Yaly Couture",
+      "english_name": "Yaly Couture",
+      "area": "会安老城",
+      "map_query": "Yaly Couture, Hoi An",
+      "source_url": "https://www.yalycouture.com/en",
+      "description": "会安最具代表性的定制裁缝品牌之一（官网称拥有300余名裁缝、设计师与手工艺人），从传统奥黛到西装、连衣裙均可按身量定制，选料、量体、试衣一站式完成，常见交期24-48小时（以门店和旺季为准，出发前确认）。定制一件合身的奥黛或西装，是会安“裁缝文化”最有纪念价值的体验。",
+      "hours": "以门店为准（出发前确认）",
+      "closed_days": "无固定闭馆日",
+      "category": "裁缝定制",
+      "buying_tip": "出发前就想好款式，到店先用布料册选料议价；量体后要求约定取衣时间并保留单据；旺季建议留足48小时，先做一套试水。",
+      "brand_highlights": [
+        "300余名裁缝与设计师的团队规模（官网介绍）",
+        "奥黛、西装、连衣裙等全品类定制",
+        "常见工期24-48小时（以门店为准）",
+        "可先看面料册与样衣再下单"
+      ],
+      "scheduled_label": "备选",
+      "latitude": 15.8785,
+      "longitude": 108.329,
+      "ratings": [],
+      "images": [
+        {
+          "file": "assets/places/yaly-01.jpg",
+          "download_url": "https://media.yalycouture.com/api/uploads/yaly_couture/file-path/dscf6766b-M7cow.jpg",
+          "source_page": "https://www.yalycouture.com/en",
+          "mime_type": "image/jpeg",
+          "width": 2183,
+          "height": 1145,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "official_site",
+          "visual_subject_type": "landscape",
+          "module": "shops",
+          "role": "gallery",
+          "verification_evidence": "assets/places/yaly-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "id": "souvenir-lantern",
+      "type": "souvenir",
+      "display_name": "会安小灯笼",
+      "local_name": "Đèn lồng Hội An",
+      "english_name": "Hoi An Lantern",
+      "map_query": "Lantern Street (廊桥北侧), Hoi An Old Town",
+      "source_url": "https://you.ctrip.com/sight/danang669/2016571.html",
+      "description": "会安是越南最大的灯笼制作中心之一，布料灯笼（丝绸/棉布配竹骨）从小挂件到一人高的大灯都有，是“会安之夜”的具象纪念（携程灯笼街页面介绍，4.8/5评分）。",
+      "hours": "全天开放（灯笼街）",
+      "closed_days": [],
+      "latitude": 15.8771,
+      "longitude": 108.326,
+      "why_buy": "轻便不怕摔、色彩喜庆，挂在房里立刻有会安的氛围；也是写给这次旅行的视觉纪念。",
+      "best_for": "送朋友、装饰家居、回程放在行李箱顶部不易压坏。",
+      "where_to_buy": "会安夜市、灯笼街铺面及古城各纪念品店（灯笼街全天开放）。",
+      "buying_tip": "买可折叠的布灯笼，打包更省空间；小尺寸（15-25cm）最实用；砍价从对半开始；避开纸质易碎款。",
+      "images": [
+        {
+          "file": "assets/places/souvenir-lantern-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/10061f000001gqushD0AE.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/2016571.html",
+          "mime_type": "image/jpeg",
+          "width": 3465,
+          "height": 2310,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "product",
+          "module": "souvenirs",
+          "role": "gallery",
+          "verification_evidence": "assets/places/souvenir-lantern-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "area": "手工艺品",
+      "category": "手工艺品"
+    },
+    {
+      "id": "souvenir-coffee",
+      "type": "souvenir",
+      "display_name": "越南咖啡与滴漏壶",
+      "local_name": "Cà phê Việt Nam & phin",
+      "english_name": "Vietnamese Coffee & Phin Filter",
+      "map_query": "Han Market, Da Nang",
+      "source_url": "https://danangfantasticity.com/en/trinh-han-market-a-da-nang-coffee-brand-in-the-heart-of-a-traditional-market/",
+      "description": "越南是全球第二大咖啡出口国，中部是罗布斯塔主产区；一包本地烘焙咖啡粉配一只不锈钢phin滴漏壶，回家就能复刻街边滴漏冰咖啡（官方旅游门户对汉市场咖啡品牌的介绍可作购买参考）。",
+      "hours": "约 07:30-19:30（汉市场咖啡亭）",
+      "closed_days": [],
+      "latitude": 16.069,
+      "longitude": 108.2236,
+      "why_buy": "体积小、分量轻、风味辨识度高，是“最有味道”的伴手礼；滴漏过程本身也是旅行记忆。",
+      "best_for": "咖啡控、办公室同事、长辈（低因可选）。",
+      "where_to_buy": "汉市场、岘港超市（Lotte/Co.opmart）与机场免税区；G7三合一与Trung Nguyên粉最常见。",
+      "buying_tip": "送人买G7三合一或小罐Trung Nguyên；自饮买整包烘焙豆/粉加一个phin壶，约合人民币几十元；注意密封防潮。",
+      "images": [
+        {
+          "file": "assets/places/souvenir-coffee-01.jpg",
+          "download_url": "https://danangfantasticity.com/wp-content/uploads/2025/04/trinh-cho-han-thuong-hieu-ca-phe-da-nang-giua-long-cho-truyen-thong-01.jpg",
+          "source_page": "https://danangfantasticity.com/en/trinh-han-market-a-da-nang-coffee-brand-in-the-heart-of-a-traditional-market/",
+          "mime_type": "image/jpeg",
+          "width": 1920,
+          "height": 1280,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "official_tourism_portal",
+          "visual_subject_type": "product",
+          "module": "souvenirs",
+          "role": "gallery",
+          "verification_evidence": "assets/places/souvenir-coffee-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "area": "咖啡茶饮",
+      "category": "咖啡茶饮"
+    },
+    {
+      "id": "souvenir-cashew",
+      "type": "souvenir",
+      "display_name": "烘焙腰果",
+      "local_name": "Hạt điều rang",
+      "english_name": "Roasted Cashew Nuts",
+      "map_query": "Han Market, Da Nang",
+      "source_url": "https://danangfantasticity.com/en/han-market/",
+      "description": "越南腰果个大饱满、烘焙工艺成熟，盐焗与蒜香两种口味最常见；岘港汉市场干货区按克称重出售，比国内超市便宜不少（汉市场官方旅游门户介绍其干货摊位）。",
+      "hours": "约 06:00-21:00（汉市场）",
+      "closed_days": [],
+      "latitude": 16.069,
+      "longitude": 108.2236,
+      "why_buy": "营养耐放、口味普适，是“回国后还会吃”的伴手礼，办公室分享装极受欢迎。",
+      "best_for": "家人、同事、同学；尽量选盐焗原味，受众最广。",
+      "where_to_buy": "汉市场一楼干货区、Big C等超市；机场免税店也有盒装。",
+      "buying_tip": "按克买比盒装划算，先尝后买；让店家真空/密封包装防潮；携带注意海关植物检疫规定（一般允许，量多需申报）。",
+      "images": [
+        {
+          "file": "assets/places/souvenir-cashew-01.jpg",
+          "download_url": "https://sc02.alicdn.com/kf/Uc6b88b405c554339b0427fb977baf642R/946428357/Uc6b88b405c554339b0427fb977baf642R.jpg",
+          "source_page": "https://danangfantasticity.com/en/han-market/",
+          "mime_type": "image/jpeg",
+          "width": 1000,
+          "height": 667,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ecommerce_product_page",
+          "visual_subject_type": "product",
+          "module": "souvenirs",
+          "role": "gallery",
+          "verification_evidence": "assets/places/souvenir-cashew-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "area": "坚果干货",
+      "category": "坚果干货"
+    },
+    {
+      "id": "souvenir-silk",
+      "type": "souvenir",
+      "display_name": "真丝围巾/奥黛布料",
+      "local_name": "Lụa Hội An / vải áo dài",
+      "english_name": "Hoi An Silk & Ao Dai Fabric",
+      "map_query": "Silk Village Hoi An, 28 Nguyễn Tất Thành, Hoi An",
+      "source_url": "https://you.ctrip.com/sight/danang669/136798151.html",
+      "description": "会安一带延续数百年的丝绸与纺织传统，Silk Village设有丝绸博物馆与手工织机展示（携程页面介绍）；古城裁缝店与布料铺也可零剪真丝、棉麻布料，或直接定制奥黛。",
+      "hours": "以现场为准",
+      "closed_days": [],
+      "latitude": null,
+      "longitude": null,
+      "why_buy": "真丝围巾轻软好带，奥黛布料颜色花色独特，做成长裙/围巾都有越南印记。",
+      "best_for": "女性亲友、追求独特服饰的人；想体验定制可做奥黛或真丝衬衫。",
+      "where_to_buy": "Silk Village Hoi An（28 Nguyễn Tất Thành）、古城Trần Phú街布料店与裁缝店。",
+      "buying_tip": "真丝看姆米数与手感，警惕化纤冒充；买布料按英尺计，先算好用量；定制奥黛需预留量体到取衣的时间。",
+      "images": [
+        {
+          "file": "assets/places/souvenir-silk-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0HJ2912000h0fosmy5F61.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/136798151.html",
+          "mime_type": "image/jpeg",
+          "width": 1152,
+          "height": 546,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "product",
+          "module": "souvenirs",
+          "role": "gallery",
+          "verification_evidence": "assets/places/souvenir-silk-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "area": "丝绸服饰",
+      "category": "丝绸服饰"
+    },
+    {
+      "id": "souvenir-pottery",
+      "type": "souvenir",
+      "display_name": "清河陶瓷小物",
+      "local_name": "Gốm Thanh Hà",
+      "english_name": "Thanh Ha Pottery",
+      "map_query": "Thanh Ha Pottery Village, Phạm Phán, Thanh Hà, Hoi An",
+      "source_url": "https://you.ctrip.com/sight/danang669/2801360.html",
+      "description": "距会安古城约3公里的清河村（Làng gốm Thanh Hà）世代烧陶，出品茶具、花瓶、摆件与餐具（携程页面介绍其百年陶瓷工艺，全年08:30-16:30开放）。在村里能看到陶轮拉坯，直接向作坊买比古城店铺更便宜。",
+      "hours": "08:30-16:30（清河陶瓷村）",
+      "closed_days": [],
+      "latitude": 15.879,
+      "longitude": 108.357,
+      "why_buy": "手工感强、独一无二，陶杯陶壶实用又有越南乡村气息；选购过程（看拉坯、挑釉色）本身是体验。",
+      "best_for": "喜欢手工艺、茶器爱好者、给新家添软装的人。",
+      "where_to_buy": "清河陶瓷村作坊直接选购，或古城河岸纪念品店；村里可选釉色与刻字。",
+      "buying_tip": "易碎品务必用衣物/气泡膜多层包裹随身携带；小件（杯、盏、小花瓶）最稳妥；讲价后让店家仔细打包。",
+      "images": [
+        {
+          "file": "assets/places/souvenir-pottery-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0ww67120008ypn6629E05.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/2801360.html",
+          "mime_type": "image/jpeg",
+          "width": 1079,
+          "height": 1299,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_sight_page",
+          "visual_subject_type": "product",
+          "module": "souvenirs",
+          "role": "gallery",
+          "verification_evidence": "assets/places/souvenir-pottery-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "area": "陶瓷手作",
+      "category": "陶瓷手作"
+    },
+    {
+      "id": "blue-coral-divers",
+      "type": "experience",
+      "display_name": "蓝珊瑚潜水中心（占婆岛潜水/浮潜一日）",
+      "local_name": "Blue Coral Diving",
+      "english_name": "Blue Coral Divers",
+      "map_query": "Blue Coral Diving, Nguyen Thai Hoc, Hoi An, Vietnam",
+      "source_url": "https://photon.komoot.io/api/?q=Blue+Coral+Divers+Hoi+An",
+      "description": "会安老牌潜水中心 Blue Coral Divers，门店位于古城河边阮泰学街（Nguyễn Thái Học），主营占婆岛（Cù Lao Chàm）水域的水肺潜水与浮潜一日游。占婆岛是联合国教科文组织生物圈保护区，珊瑚礁和能见度在中部越南名列前茅；对想在岘港行程中完成首次海水潜水或持证下水的游客，这里是最稳的本地运营方之一，可预约英文向导与全套装备，行程顺路游览海岛海滩。",
+      "hours": "以商家预约为准（潜水季通常上午出海、下午返航）",
+      "closed_days": [
+        "无固定闭馆日"
+      ],
+      "latitude": 15.8764531,
+      "longitude": 108.3288611,
+      "images": [
+        {
+          "file": "assets/places/blue-coral-divers-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/100o0l000000cs3r13566.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/145789.html",
+          "mime_type": "image/jpeg",
+          "width": 4000,
+          "height": 2249,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_page",
+          "visual_subject_type": "landscape",
+          "module": "experiences",
+          "role": "gallery",
+          "verification_evidence": "assets/places/blue-coral-divers-01.jpg",
+          "visual_confirmation_note": "待视觉复核（主体应为占婆岛海域风光）",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "experience_type": "adventure",
+      "category": "潜水与海岛",
+      "scheduled_label": "备选",
+      "hazardous": true,
+      "risk_assessment": "潜水属高风险活动：出行前确认自身体质、购买含潜水项目的旅行保险并核对运营方资质；听从潜导简报，占婆岛海域偶有风浪，晕船者备药；登船后全程穿救生衣，不单独潜水。",
+      "area": "会安老城"
+    },
+    {
+      "id": "cham-islands-snorkeling",
+      "type": "experience",
+      "display_name": "占婆岛浮潜一日游（Cham Island Diving 运营）",
+      "local_name": "Cham Island Diving",
+      "english_name": "Cham Island Diving Center",
+      "map_query": "Cham Island Diving, 41 Tran Hung Dao, Hoi An, Vietnam",
+      "source_url": "https://you.ctrip.com/sight/hoian668/2488060.html",
+      "description": "占婆岛浮潜一日游由会安潜水运营商 Cham Island Diving 组织，登记地址为陈兴道街 41 号（Phường Minh An），携程页面记载营业 09:30–20:30、电话 +84-235-3910782。行程从会安乘快艇出海，在占婆岛（Cù Lao Chàm）生物圈保护区的浅水珊瑚区浮潜，含海岛停留与午餐；适合不想考证、只想轻松下水看珊瑚的两人，与蓝珊瑚中心互为备选方案。",
+      "hours": "09:30–20:30（携程登记营业时间；出海行程另按船班预约）",
+      "closed_days": [
+        "无固定闭馆日"
+      ],
+      "latitude": 15.8794,
+      "longitude": 108.3293,
+      "images": [
+        {
+          "file": "assets/places/cham-islands-snorkeling-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/100u0q000000gbe783DBF.jpg",
+          "source_page": "https://you.ctrip.com/sight/danang669/145789.html",
+          "mime_type": "image/jpeg",
+          "width": 1200,
+          "height": 675,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_page",
+          "visual_subject_type": "landscape",
+          "module": "experiences",
+          "role": "gallery",
+          "verification_evidence": "assets/places/cham-islands-snorkeling-01.jpg",
+          "visual_confirmation_note": "待视觉复核（主体应为占婆岛海滩/海域）",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "experience_type": "adventure",
+      "category": "潜水与海岛",
+      "scheduled_label": "备选",
+      "hazardous": true,
+      "risk_assessment": "出海行程受天气与海况影响大，遇风浪可能停航或改期，务必安排机动日并提前与运营方确认；浮潜全程穿救生衣、不单独下水，珊瑚区勿触摸生物、注意防晒；贵重物品不上船。",
+      "area": "会安老城"
+    },
+    {
+      "id": "red-bridge-cooking",
+      "type": "experience",
+      "display_name": "红桥烹饪学校（含市场导览+实操）",
+      "local_name": "Red Bridge Restaurant and Cooking School",
+      "english_name": "Red Bridge Cooking School",
+      "map_query": "Red Bridge Restaurant and Cooking School, Cam Thanh, Hoi An, Vietnam",
+      "source_url": "https://localvietnam.com/tour/hoi-an-cooking-class/",
+      "description": "红桥烹饪学校（Red Bridge Restaurant and Cooking School）位于会安锦清（Cẩm Thanh）水乡，是越南中部最有名的家庭式烹饪学校：上午先到古城中央市场买菜，再乘红桥的小船沿秋盆河约 25 分钟到校，在大厨指导下做白玫瑰、春卷等三四道会安菜，最后吃自己做的午餐。课程含市场导览与实操，约 3–4 小时，适合喜欢动手并把‘会安味道’带回家的游客。",
+      "hours": "烹饪课常见 08:15 于古城集合、约 3–4 小时（以当日课表与预订为准）；餐厅日间至晚间营业",
+      "closed_days": [
+        "无固定闭馆日"
+      ],
+      "latitude": 15.8736768,
+      "longitude": 108.3588901,
+      "images": [
+        {
+          "file": "assets/places/red-bridge-cooking-01.jpg",
+          "download_url": "https://localvietnam.com/wp-content/uploads/2025/10/hoi-an-cooking-class-redbridge-4.jpg",
+          "source_page": "https://localvietnam.com/tour/hoi-an-cooking-class/",
+          "mime_type": "image/jpeg",
+          "width": 1200,
+          "height": 800,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "web_page",
+          "visual_subject_type": "place_exterior",
+          "module": "experiences",
+          "role": "gallery",
+          "verification_evidence": "assets/places/red-bridge-cooking-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "experience_type": "food_workshop",
+      "category": "烹饪课堂",
+      "scheduled_label": "已安排",
+      "hazardous": false,
+      "area": "会安锦清"
+    },
+    {
+      "id": "gioan-cooking",
+      "type": "experience",
+      "display_name": "Gioan 烹饪课（家族小班）",
+      "local_name": "Cooking class Gioan",
+      "english_name": "Gioan Cookery School",
+      "map_query": "Cooking class Gioan, Ly Thuong Kiet, Hoi An, Vietnam",
+      "source_url": "https://photon.komoot.io/api/?q=Gioan+Cookery+School+Hoi+An",
+      "description": "Gioan 烹饪课由会安本地人家族经营（Cooking class Gioan），位于黎常杰街（Lý Thường Kiệt）近古城一侧，OpenStreetMap 登记的营业时间为每日 08:00–22:00。小班制教学，先逛市场再回厨房学做会安招牌菜，氛围比大型学校更家常、适合想避开旅行团、体验更私房一面的游客；地址以 OSM 现场登记为准（原清单所写 31 Hai Thượng Lãn Ông 未能核实）。",
+      "hours": "每日 08:00–22:00（OpenStreetMap 现场登记）",
+      "closed_days": [
+        "无固定闭馆日"
+      ],
+      "latitude": 15.8837757,
+      "longitude": 108.3314321,
+      "images": [
+        {
+          "file": "assets/places/gioan-cooking-01.jpg",
+          "download_url": "https://localvietnam.com/wp-content/uploads/2025/10/hoi-an-cooking-class-redbridge-14.jpg",
+          "source_page": "https://localvietnam.com/tour/hoi-an-cooking-class/",
+          "mime_type": "image/jpeg",
+          "width": 1200,
+          "height": 800,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "web_page",
+          "visual_subject_type": "place_interior",
+          "module": "experiences",
+          "role": "gallery",
+          "verification_evidence": "assets/places/gioan-cooking-01.jpg",
+          "visual_confirmation_note": "待视觉复核（图源为同类型会安烹饪课实拍，非 Gioan 门店自拍）",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "experience_type": "food_workshop",
+      "category": "烹饪课堂",
+      "scheduled_label": "备选",
+      "hazardous": false,
+      "area": "会安老城"
+    },
+    {
+      "id": "lantern-class",
+      "type": "experience",
+      "display_name": "会安灯笼制作课（LiA Hoi An 手作工坊）",
+      "local_name": "LiA Hoi An - Lantern Workshops",
+      "english_name": "LiA Hoi An Lantern Making Class",
+      "map_query": "LiA Hoi An, K282 Hung Vuong, Hoi An, Vietnam",
+      "source_url": "https://liahoian.com/",
+      "description": "LiA Hoi An 是位于会安雄王街 K282 的家庭手作工坊（2015 年起经营），官方站登记营业每日 8:00–21:00，官网明确开设灯笼、丝绸与皮具手作课。灯笼课由本地匠人带教，约 1.5–2 小时完成一只可折叠丝绸灯笼并可带走；工坊与清河陶村同在雄王路方向、可顺路安排，适合想亲手做一件会安标志性纪念品的游客，也为夜里拍灯笼街提供自己的道具。",
+      "hours": "每日 08:00–21:00（官方站登记）",
+      "closed_days": [
+        "无固定闭馆日"
+      ],
+      "latitude": 15.8809509,
+      "longitude": 108.3085645,
+      "images": [
+        {
+          "file": "assets/places/lantern-class-01.png",
+          "download_url": "https://res.cloudinary.com/dck3z83wk/image/upload/v1785717153/dabao_leather_products/0308-9b0a94ef-4ce4-4c21-9da1-cf667723d332.png",
+          "source_page": "https://liahoian.com/blogs/light-up-your-story-a-hands-on-lantern-making-class-in-hoi-an",
+          "mime_type": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "official_page",
+          "visual_subject_type": "product",
+          "module": "experiences",
+          "role": "gallery",
+          "verification_evidence": "assets/places/lantern-class-01.png",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "experience_type": "craft",
+      "category": "手作工坊",
+      "scheduled_label": "已安排",
+      "hazardous": false,
+      "area": "会安西北（雄王路）"
+    },
+    {
+      "id": "thanh-ha-pottery",
+      "type": "experience",
+      "display_name": "清河陶村陶艺体验（Làng gốm Thanh Hà）",
+      "local_name": "Làng gốm Thanh Hà",
+      "english_name": "Thanh Ha Pottery Village",
+      "map_query": "Thanh Ha Pottery Village, Thanh Ha, Hoi An, Vietnam",
+      "source_url": "https://www.vietnamairlines.com/ch/en/plan-book/travel/travel-guide/thanh-ha-pottery-village-hoi-an",
+      "description": "清河陶村（Làng gốm Thanh Hà）是会安北郊 400 多年历史的制陶村落，官方旅游资料记载地址为清河坊（Thanh Hà）南叠村范潘路（Phạm Phán），营业 8:30–17:00、成人门票 5 万越南盾；村内可看老匠人拉坯、参与陶艺小体验并购买烧制成品。从古城沿雄王路骑摩托约 10–15 分钟即到，适合把‘动手体验’和古城半日游结合在一起的行程。",
+      "hours": "08:30–17:00（越南航空官方攻略记载）",
+      "closed_days": [
+        "无固定闭馆日"
+      ],
+      "latitude": 15.8832622,
+      "longitude": 108.3314662,
+      "images": [
+        {
+          "file": "assets/places/thanh-ha-pottery-01.png",
+          "download_url": "https://www.vietnamairlines.com/content/dam/legacy-site-assets/SEO-images/2025%20SEO/Thay%20Anh%20Traffic%20Tieng%20Anh/thanh%20ha%20pottery%20village%20hoi%20an/additionally-you-can-buy-traditional-ceramic-products-passed-down-through-generations-still.png",
+          "source_page": "https://www.vietnamairlines.com/ch/en/plan-book/travel/travel-guide/thanh-ha-pottery-village-hoi-an",
+          "mime_type": "image/png",
+          "width": 1000,
+          "height": 666,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "official_page",
+          "visual_subject_type": "product",
+          "module": "experiences",
+          "role": "gallery",
+          "verification_evidence": "assets/places/thanh-ha-pottery-01.png",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "experience_type": "craft",
+      "category": "手作工坊",
+      "scheduled_label": "备选",
+      "hazardous": false,
+      "area": "会安北郊（清河村）"
+    },
+    {
+      "id": "white-rose",
+      "type": "restaurant",
+      "display_name": "白玫瑰餐厅",
+      "local_name": "Nhà Hàng Bông Hồng Trắng",
+      "english_name": "White Rose Restaurant",
+      "map_query": "White Rose Restaurant, 533 Hai Ba Trung, Hoi An, Vietnam",
+      "source_url": "https://gs.ctrip.com/html5/you/foods/fooddetail/668/9282737.html",
+      "description": "白玫瑰餐厅是『白玫瑰蒸饺』这道会安名点的招牌出处：薄米皮裹虾肉馅、形如白玫瑰的蒸饺（Bánh bao bánh vạc），从创始至今手工制作上百年，招牌另有炸云吞。门店在会安古城边缘的海婆争街 533 号，携程登记营业 7:30–20:30，主打游客与本地人都认的会安传统味道，值得专程来吃一道『会安限定』。",
+      "hours": "07:30–20:30",
+      "closed_days": [],
+      "latitude": 15.8829028,
+      "longitude": 108.3249932,
+      "images": [
+        {
+          "file": "assets/places/white-rose-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/100g0a0000004upyqA3B2.jpg",
+          "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/668/9282737.html",
+          "mime_type": "image/jpeg",
+          "width": 5000,
+          "height": 3337,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_page",
+          "visual_subject_type": "place_interior",
+          "module": "restaurants",
+          "role": "gallery",
+          "verification_evidence": "assets/places/white-rose-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "cuisine": "会安传统特色菜（白玫瑰名点）",
+      "signature_dishes": "白玫瑰蒸饺（Bánh bao bánh vạc）· 炸云吞（Hoành thánh chiên）· 越南冰咖啡",
+      "price_per_person": "人均约 ¥53（携程参考）",
+      "area": "会安老城东"
+    },
+    {
+      "id": "com-ga-ba-buoi",
+      "type": "restaurant",
+      "display_name": "鸡饭婆Bưởi",
+      "local_name": "Cơm gà Bà Buội",
+      "english_name": "Com Ga Ba Buoi",
+      "map_query": "Cơm gà Bà Buội, 22 Phan Chau Trinh, Hoi An, Vietnam",
+      "source_url": "https://comgababuoi.com/",
+      "description": "鸡饭婆 Bưởi（Cơm gà Bà Buội）是会安最有名的黄姜鸡饭老店，位于潘周桢街 22 号（古城市场一带），官方站登记营业 07:00–21:00、同时经营河内与会安两城分号。招牌是把本地鸡用黄姜焖煮后配米饭、腌木瓜与鱼露蘸汁的会安鸡饭吃法，鸡肉香嫩、米饭粒粒分明，是离开会安后会想念的日常味道。",
+      "hours": "07:00–21:00（官方站登记）",
+      "closed_days": [],
+      "latitude": 15.878492,
+      "longitude": 108.330426,
+      "images": [
+        {
+          "file": "assets/places/com-ga-ba-buoi-01.jpg",
+          "download_url": "https://comgababuoi.com/wp-content/uploads/2026/03/com-ga-ba-buoi.jpg",
+          "source_page": "https://comgababuoi.com/",
+          "mime_type": "image/jpeg",
+          "width": 960,
+          "height": 960,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "official_page",
+          "visual_subject_type": "place_interior",
+          "module": "restaurants",
+          "role": "gallery",
+          "verification_evidence": "assets/places/com-ga-ba-buoi-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "cuisine": "会安黄姜鸡饭（本地米饭招牌）",
+      "signature_dishes": "招牌黄姜鸡饭（Cơm gà nhuộm nghệ）· 鸡腿/鸡肝配菜与腌木瓜鱼露蘸汁（经典会安鸡饭吃法）",
+      "price_per_person": "以菜单为准",
+      "area": "会安老城"
+    },
+    {
+      "id": "mi-quang-1a",
+      "type": "restaurant",
+      "display_name": "米广面 1A",
+      "local_name": "Mì Quảng 1A",
+      "english_name": "Mi Quang 1A",
+      "map_query": "Mi Quang 1A, 5 Hai Phong, Hai Chau, Da Nang, Vietnam",
+      "source_url": "https://you.ctrip.com/yougourmet/restdetail/DaNang669/27490141.html",
+      "description": "米广面 1A（Mì Quảng 1A）是岘港最出名的广南式米广面专营店，开在海防街 5 号交叉口，携程登记营业 06:00–21:00、电话 +84-236-3827936。米广面以姜黄米宽粉配烤猪肉/鲜虾与鹌鹑蛋，浇少汤、拌脆饼与花生碎，是岘港『非河粉』的本地面食传统；这家店从早排到晚，适合专程体验。",
+      "hours": "06:00–21:00（携程登记）",
+      "closed_days": [],
+      "latitude": 16.072381,
+      "longitude": 108.219128,
+      "images": [
+        {
+          "file": "assets/places/mi-quang-1a-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0107012000fpzkk1gAF18.jpg",
+          "source_page": "https://you.ctrip.com/yougourmet/restdetail/DaNang669/27490141.html",
+          "mime_type": "image/jpeg",
+          "width": 891,
+          "height": 671,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_page",
+          "visual_subject_type": "place_interior",
+          "module": "restaurants",
+          "role": "gallery",
+          "verification_evidence": "assets/places/mi-quang-1a-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "cuisine": "广南米广面（岘港特色面食）",
+      "signature_dishes": "米广面配烤猪肉/鲜虾（Mì Quảng thịt heo/tôm）· 炸鱼肠与烤猪排（Mì Quảng 1A 加料组合）· 甘蔗汁",
+      "price_per_person": "以菜单为准",
+      "area": "岘港市区"
+    },
+    {
+      "id": "morning-glory",
+      "type": "restaurant",
+      "display_name": "Morning Glory 街边菜馆",
+      "local_name": "Morning Glory Restaurant",
+      "english_name": "Morning Glory Street Food Restaurant",
+      "map_query": "Morning Glory Restaurant, 106 Nguyen Thai Hoc, Hoi An, Vietnam",
+      "source_url": "https://gs.ctrip.com/html5/you/foods/fooddetail/668/8906702.html",
+      "description": "Morning Glory 是会安古城内人气最高的本地菜馆之一，位于阮泰学街 106 号，携程登记营业 09:00–22:30；招牌包括白玫瑰蒸饺与椰香咖喱虾，绿植装点的老宅庭院就餐氛围浓，菜单面向游客又保持在地水准。点菜式体验适合第一次来会安的两人游客，人均约 ¥103（携程参考）。",
+      "hours": "09:00–22:30",
+      "closed_days": [],
+      "latitude": 15.876632,
+      "longitude": 108.3276265,
+      "images": [
+        {
+          "file": "assets/places/morning-glory-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0101k12000nnog6q9075A.jpg",
+          "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/668/8906702.html",
+          "mime_type": "image/jpeg",
+          "width": 1116,
+          "height": 757,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_page",
+          "visual_subject_type": "place_interior",
+          "module": "restaurants",
+          "role": "gallery",
+          "verification_evidence": "assets/places/morning-glory-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "cuisine": "本地家常菜·点菜式（东南亚菜）",
+      "signature_dishes": "白玫瑰蒸饺（Bánh bao bánh vạc）· 椰香咖喱虾（Tôm cà ri dừa）· 烤鸭腿饭",
+      "price_per_person": "人均约 ¥103（携程参考）",
+      "area": "会安老城"
+    },
+    {
+      "id": "banh-mi-phuong",
+      "type": "restaurant",
+      "display_name": "法棍Phượng",
+      "local_name": "Bánh Mì Phượng",
+      "english_name": "Banh Mi Phuong",
+      "map_query": "Banh Mi Phuong, 2B Phan Chau Trinh, Hoi An, Vietnam",
+      "source_url": "https://gs.ctrip.com/html5/you/foods/fooddetail/668/9281964.html",
+      "description": "法棍 Phượng（Bánh Mì Phượng）是会安人气第一的法棍店，位于潘周桢街 2B 号，凭混合烤肉法棍 Bánh mì thập cẩm 出名，携程登记营业 06:30–21:00，门口常年排队。法棍现烤外脆内软、馅料塞得满，夹叉烧、猪肉冻与腌菜，属于『到会安不吃会后悔』的街头小吃。",
+      "hours": "06:30–21:00",
+      "closed_days": [],
+      "latitude": 15.8785487,
+      "longitude": 108.332045,
+      "images": [
+        {
+          "file": "assets/places/banh-mi-phuong-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0101q12000se7rsed3C0C.jpg",
+          "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/668/9281964.html",
+          "mime_type": "image/jpeg",
+          "width": 774,
+          "height": 594,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_page",
+          "visual_subject_type": "product",
+          "module": "restaurants",
+          "role": "gallery",
+          "verification_evidence": "assets/places/banh-mi-phuong-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "cuisine": "街头法棍三明治（快餐简餐）",
+      "signature_dishes": "混合烤肉法棍（Bánh mì thập cẩm）· 烤猪肉法棍（Bánh mì thịt nướng）",
+      "price_per_person": "以菜单为准",
+      "area": "会安老城"
+    },
+    {
+      "id": "madam-khanh",
+      "type": "restaurant",
+      "display_name": "法棍女皇 Madam Khanh",
+      "local_name": "Madam Khánh - The Bánh Mì Queen",
+      "english_name": "Madam Khanh - The Banh Mi Queen",
+      "map_query": "Madam Khanh - The Banh Mi Queen, 115 Tran Cao Van, Hoi An, Vietnam",
+      "source_url": "https://gs.ctrip.com/html5/you/foods/fooddetail/668/9282420.html",
+      "description": "Madam Khanh 被称作『法棍女王』，店面在陈高云街 115 号，携程登记营业 06:30–19:00，主打现烤鸡肉法棍与鸡蛋咖啡。老板娘亲自烤法棍几十年，肉馅足、酱汁浓，是本地人和游客公认的会安法棍双雄之一（另一家是 Phượng），适合搭配一次河畔咖啡散步，人均约 ¥13（携程参考）。",
+      "hours": "06:30–19:00",
+      "closed_days": [],
+      "latitude": 15.8806211,
+      "longitude": 108.3279355,
+      "images": [
+        {
+          "file": "assets/places/madam-khanh-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0101g12000n92lgm4404F.jpg",
+          "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/668/9282420.html",
+          "mime_type": "image/jpeg",
+          "width": 701,
+          "height": 542,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_page",
+          "visual_subject_type": "product",
+          "module": "restaurants",
+          "role": "gallery",
+          "verification_evidence": "assets/places/madam-khanh-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "cuisine": "街头法棍·越式咖啡（小食）",
+      "signature_dishes": "鸡肉法棍（Bánh mì gà）· 鸡蛋咖啡（Cà phê trứng）· 混合肉法棍",
+      "price_per_person": "人均约 ¥13（携程参考）",
+      "area": "会安老城北"
+    },
+    {
+      "id": "bun-cha-ca-109",
+      "type": "restaurant",
+      "display_name": "鱼饼粉 109",
+      "local_name": "Bún Chả Cá 109",
+      "english_name": "Bun Cha Ca 109",
+      "map_query": "Bun Cha Ca 109, 109 Nguyen Chi Thanh, Hai Chau, Da Nang, Vietnam",
+      "source_url": "https://you.ctrip.com/food/danang669/9283691.html",
+      "description": "鱼饼粉 109（Bún chả cá 109）是岘港本地鱼饼面汤连锁的代表门店，位于阮志清街 109 号，携程登记营业 06:00–22:00。招牌炸鱼饼面汤以番茄清汤打底、配自制炸鱼饼与水母（海蜇），汤头鲜甜、鱼饼弹牙，另有鱼蛋河粉与烤肉米粉，属于岘港本地人早餐的日常记忆，专程来吃不会失望。",
+      "hours": "06:00–22:00",
+      "closed_days": [],
+      "latitude": 16.0744219,
+      "longitude": 108.2208132,
+      "images": [
+        {
+          "file": "assets/places/bun-cha-ca-109-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/100v0h0000008v2r98354.jpg",
+          "source_page": "https://you.ctrip.com/food/danang669/9283691.html",
+          "mime_type": "image/jpeg",
+          "width": 1000,
+          "height": 563,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_page",
+          "visual_subject_type": "product",
+          "module": "restaurants",
+          "role": "gallery",
+          "verification_evidence": "assets/places/bun-cha-ca-109-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "cuisine": "鱼饼面汤（Bún chả cá）",
+      "signature_dishes": "炸鱼饼面汤（Bún chả cá）· 鱼蛋河粉（Phở cá viên）· 海蜇鱼饼粉（综合款）",
+      "price_per_person": "以菜单为准",
+      "area": "岘港市区"
+    },
+    {
+      "id": "banh-xeo-ba-duong",
+      "type": "restaurant",
+      "display_name": "巴婆煎饼",
+      "local_name": "Bánh Xèo Bà Dưỡng",
+      "english_name": "Banh Xeo Ba Duong",
+      "map_query": "Banh Xeo Ba Duong, K280/23 Ngo Thi Si, Hai Chau, Da Nang, Vietnam",
+      "source_url": "https://gs.ctrip.com/html5/you/foods/fooddetail/669/10398219.html",
+      "description": "巴婆煎饼（Bánh xèo Bà Dưỡng）是岘港老字号脆煎饼店，携程登记地址为黄耀街 280/23 号（即 Ngô Thì Sĩ 巷内），营业 09:30–21:30。米浆煎饼外圈焦脆、内里包虾仁豆芽，配鱼露蘸汁与生菜卷着吃，按人头现点现做，另供烤肉卷与甘蔗烤肉，是体验岘港街头烟火气的一站。",
+      "hours": "09:30–21:30",
+      "closed_days": [],
+      "latitude": 16.0588772,
+      "longitude": 108.216166,
+      "images": [
+        {
+          "file": "assets/places/banh-xeo-ba-duong-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0106f12000nnoc3af8324.jpg",
+          "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/669/10398219.html",
+          "mime_type": "image/jpeg",
+          "width": 1130,
+          "height": 768,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_page",
+          "visual_subject_type": "place_interior",
+          "module": "restaurants",
+          "role": "gallery",
+          "verification_evidence": "assets/places/banh-xeo-ba-duong-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "cuisine": "越南脆煎饼·街头小吃（Bánh xèo）",
+      "signature_dishes": "脆煎饼（Bánh xèo tôm thịt）· 烤肉卷（Thịt nướng cuốn）· 甘蔗烤肉（Chả mực mía）",
+      "price_per_person": "以菜单为准",
+      "area": "岘港市区"
+    },
+    {
+      "id": "be-man-seafood",
+      "type": "restaurant",
+      "display_name": "贝马恩海鲜",
+      "local_name": "Hải Sản Bé Mặn",
+      "english_name": "Hai San Be Man",
+      "map_query": "Hai San Be Man, Lo 9 Vo Nguyen Giap, Son Tra, Da Nang, Vietnam",
+      "source_url": "https://you.ctrip.com/food/danang669/10398238.html",
+      "description": "贝马恩海鲜（Hải Sản Bé Mặn）开在岘港美溪海滩一侧的武元甲大道 9 号地块，携程记载营业 9:00–23:59，是本地人常去的海鲜大排档：全部海鲜明码标价、称重计价，可选黑蒜烤生蚝、炒蟹、椒盐皮皮虾、烤大龙虾等做法，靠近海边可吹海风吃海鲜，适合安排在美溪海滩日的傍晚。",
+      "hours": "09:00–23:59",
+      "closed_days": [],
+      "latitude": 16.0820695,
+      "longitude": 108.2473865,
+      "images": [
+        {
+          "file": "assets/places/be-man-seafood-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/100b1g000001h6h98FA60.jpg",
+          "source_page": "https://you.ctrip.com/food/danang669/10398238.html",
+          "mime_type": "image/jpeg",
+          "width": 720,
+          "height": 720,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_page",
+          "visual_subject_type": "product",
+          "module": "restaurants",
+          "role": "gallery",
+          "verification_evidence": "assets/places/be-man-seafood-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "cuisine": "海鲜大排档（称重计价）",
+      "signature_dishes": "黑蒜烤生蚝（Hàu nướng tỏi đen）· 椒盐皮皮虾（Bề bề rang muối）· 炒螃蟹与烤大龙虾",
+      "price_per_person": "以菜单为准（海鲜称重计价）",
+      "area": "岘港美溪"
+    },
+    {
+      "id": "madame-lan",
+      "type": "restaurant",
+      "display_name": "兰夫人餐厅",
+      "local_name": "Nhà hàng Madame Lân",
+      "english_name": "Madame Lan Restaurant",
+      "map_query": "Madame Lan Restaurant, 4 Bach Dang, Hai Chau, Da Nang, Vietnam",
+      "source_url": "https://gs.ctrip.com/html5/you/foods/fooddetail/669/9283801.html",
+      "description": "兰夫人餐厅（Madame Lân）坐落汉江河畔的白腾街 4 号，是岘港最上镜的传统越南餐厅之一：老式越南装潢、兰花点缀，菜单覆盖越南河粉、越式春卷、烤鱿鱼等整套越南正餐，携程登记营业 06:30–21:30。适合作为汉江河边的一顿正式晚餐，环境与出品都稳定。",
+      "hours": "06:30–21:30",
+      "closed_days": [],
+      "latitude": 16.0814096,
+      "longitude": 108.2232499,
+      "images": [
+        {
+          "file": "assets/places/madame-lan-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/0105v12000nnojwygFD35.jpg",
+          "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/669/9283801.html",
+          "mime_type": "image/jpeg",
+          "width": 875,
+          "height": 661,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_page",
+          "visual_subject_type": "place_exterior",
+          "module": "restaurants",
+          "role": "gallery",
+          "verification_evidence": "assets/places/madame-lan-01.jpg",
+          "visual_confirmation_note": "待视觉复核",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "cuisine": "河畔越南正餐",
+      "signature_dishes": "越南河粉（Phở bò）· 越式春卷（Nem rán）· 烤鱿鱼（Mực nướng）· 烤肉拼盘",
+      "price_per_person": "以菜单为准",
+      "area": "岘港汉江畔"
+    },
+    {
+      "id": "highlands-coffee",
+      "type": "restaurant",
+      "display_name": "中原高地咖啡·美溪店",
+      "local_name": "Highlands Coffee",
+      "english_name": "Highlands Coffee",
+      "map_query": "Highlands Coffee, 268 Vo Nguyen Giap, My Khe, Da Nang, Vietnam",
+      "source_url": "https://photon.komoot.io/api/?q=Highlands+Coffee+Vo+Nguyen+Giap+Da+Nang",
+      "description": "中原高地咖啡美溪店是高兰斯咖啡（Highlands Coffee）在岘港美溪海滩带的分店，OpenStreetMap 登记地址为武元甲大道 268 号（268 Võ Nguyên Giáp），营业 06:30–23:30、官网 highlandscoffee.com.vn。门店就开在海滩步行街沿线，可带一杯越南滴漏咖啡或椰子冰咖啡直接下海滩；作为『本地连锁安心选』，价位透明、出品稳定，适合美溪日子的上午或日落时段补给。",
+      "hours": "06:30–23:30（OSM 现场登记）",
+      "closed_days": [
+        "无固定闭馆日"
+      ],
+      "latitude": 16.054015,
+      "longitude": 108.247348,
+      "images": [
+        {
+          "file": "assets/places/highlands-coffee-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/fd/tg/g1/M09/B5/3E/CghzfVW7UTGAMpTjAAA9GI3WHW0620_D_750_450_Q90.jpg",
+          "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/669/10398237.html",
+          "mime_type": "image/jpeg",
+          "width": 750,
+          "height": 450,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_page",
+          "visual_subject_type": "place_interior",
+          "module": "restaurants",
+          "role": "gallery",
+          "verification_evidence": "assets/places/highlands-coffee-01.jpg",
+          "visual_confirmation_note": "待视觉复核（同品牌岘港门店图，非美溪分店自拍）",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "cuisine": "越南咖啡连锁（滴漏咖啡/椰子咖啡）",
+      "signature_dishes": "越南滴漏咖啡（Cà phê sữa đá）· 椰子冰咖啡（Cà phê dừa）· 招牌思慕昔与果汁",
+      "price_per_person": "人均约 ¥21（携程参考）",
+      "area": "岘港美溪"
+    },
+    {
+      "id": "phuc-long-da-nang",
+      "type": "restaurant",
+      "display_name": "福隆茶饮·岘港分店",
+      "local_name": "Phúc Long Coffee & Tea",
+      "english_name": "Phuc Long Coffee & Tea",
+      "map_query": "Phuc Long Coffee & Tea, 242 Vo Nguyen Giap, Son Tra, Da Nang, Vietnam",
+      "source_url": "https://photon.komoot.io/api/?q=Phuc+Long+Da+Nang",
+      "description": "福隆茶饮（Phúc Long Coffee & Tea）是越南知名本土咖啡茶饮连锁，岘港分店位于美溪海滩一侧武元甲大道 242 号（OpenStreetMap 登记的沿街门店），同街另有高地咖啡美溪店相邻，是美溪日子的顺路补给点。招牌莲花茶与滴漏咖啡出品稳定、价位透明，比景区饮品摊更可靠，符合『本地连锁安心选』定位。",
+      "hours": "以门店为准（连锁咖啡茶饮常见 07:00–22:00 前后）",
+      "closed_days": [
+        "无固定闭馆日"
+      ],
+      "latitude": 16.065697,
+      "longitude": 108.244904,
+      "images": [
+        {
+          "file": "assets/places/phuc-long-da-nang-01.jpg",
+          "download_url": "https://dimg04.c-ctrip.com/images/10010g0000007q82x2449_D_750_450_Q90.jpg",
+          "source_page": "https://gs.ctrip.com/html5/you/foods/fooddetail/434/15815316.html",
+          "mime_type": "image/jpeg",
+          "width": 750,
+          "height": 450,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "ctrip_page",
+          "visual_subject_type": "product",
+          "module": "restaurants",
+          "role": "gallery",
+          "verification_evidence": "assets/places/phuc-long-da-nang-01.jpg",
+          "visual_confirmation_note": "待视觉复核（同品牌连锁门店图，非岘港分店自拍）",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "cuisine": "越南咖啡茶饮连锁（莲花茶/滴漏咖啡）",
+      "signature_dishes": "招牌莲花茶（Trà sen）· 越南滴漏咖啡（Cà phê sữa đá）· 水果茶（Trà trái cây）",
+      "price_per_person": "以菜单为准",
+      "area": "岘港美溪"
+    },
+    {
+      "id": "kichi-kichi-da-nang",
+      "type": "restaurant",
+      "display_name": "Kichi Kichi 火锅·岘港分店",
+      "local_name": "Kichi Kichi Lẩu Băng Chuyền",
+      "english_name": "Kichi Kichi Hot Pot",
+      "map_query": "Kichi Kichi Vincom, 910A Ngo Quyen, Son Tra, Da Nang, Vietnam",
+      "source_url": "https://kichi.com.vn/",
+      "description": "Kichi Kichi 是越南黄金门餐饮集团（Golden Gate）旗下旋转传送带自助火锅连锁，官方站（kichi.com.vn）登记岘港分店（WS_2_DAN_store，正常营业）；大众点评门店记录为『Kichi Kichi Lẩu Băng Chuyền Vincom Đà Nẵng』，位于陈桥商圈 Vincom Plaza（910A 吴权街），店内有海鲜鱿鱼、牛蛙腿等涮菜实拍点评。自助套餐按人头计价、涮料在回转带上自取，适合想吃顿热闹火锅的两人，属『本地连锁安心选』兜底。",
+      "hours": "以门店为准（自助火锅常见午市约 11:00 起、晚市至 22:00 前后）",
+      "closed_days": [
+        "无固定闭馆日"
+      ],
+      "latitude": 16.071396,
+      "longitude": 108.230301,
+      "images": [
+        {
+          "file": "assets/places/kichi-kichi-da-nang-01.png",
+          "download_url": "https://kichi.com.vn/images/seo_default_image/kichi-kichi.png",
+          "source_page": "https://kichi.com.vn/",
+          "mime_type": "image/png",
+          "width": 1500,
+          "height": 700,
+          "media_class": "real_photo",
+          "original_media_class": "real_photo",
+          "source_type": "official_page",
+          "visual_subject_type": "product",
+          "module": "restaurants",
+          "role": "gallery",
+          "verification_evidence": "assets/places/kichi-kichi-da-nang-01.png",
+          "visual_confirmation_note": "待视觉复核（官方品牌图，非岘港分店店面实拍）",
+          "subject_verified": false,
+          "http_accessible": true,
+          "source_identity_bound": true,
+          "visually_confirmed": false,
+          "watermark_checked": false,
+          "retrieved_at": "2026-09-18"
+        }
+      ],
+      "cuisine": "自助旋转火锅（涮锅+回转取菜）",
+      "signature_dishes": "旋转传送带自助火锅（Lẩu băng chuyền）· 牛蛙腿与海鲜鱿鱼涮料（自助套餐）· 甜品饮料畅饮",
+      "price_per_person": "以门店为准（自助套餐按人头计价）",
+      "area": "岘港美溪北（安海）"
+    }
+  ],
+  "module_groups": {
+    "shopping": [
+      {
+        "title": "市集与夜市",
+        "subtitle": "店铺与集市",
+        "items": [
+          {
+            "place_id": "han-market"
+          },
+          {
+            "place_id": "hoi-an-night-market"
+          },
+          {
+            "place_id": "hoi-an-central-market"
+          }
+        ]
+      },
+      {
+        "title": "裁缝与定制",
+        "subtitle": "店铺与定制",
+        "items": [
+          {
+            "place_id": "yaly-couture"
+          }
+        ]
+      },
+      {
+        "title": "公益手作茶室",
+        "subtitle": "店铺与手作",
+        "items": [
+          {
+            "place_id": "reaching-out-teahouse"
+          }
+        ]
+      }
+    ],
+    "experiences": [
+      {
+        "title": "潜水与海岛",
+        "items": [
+          {
+            "place_id": "blue-coral-divers"
+          },
+          {
+            "place_id": "cham-islands-snorkeling"
+          }
+        ]
+      },
+      {
+        "title": "烹饪课堂",
+        "items": [
+          {
+            "place_id": "red-bridge-cooking"
+          },
+          {
+            "place_id": "gioan-cooking"
+          }
+        ]
+      },
+      {
+        "title": "手作工坊",
+        "items": [
+          {
+            "place_id": "lantern-class"
+          },
+          {
+            "place_id": "thanh-ha-pottery"
+          }
+        ]
+      }
+    ],
+    "food": {
+      "menu_guide": {
+        "kicker": "EAT LIKE A LOCAL",
+        "title": "会安与岘港的点餐手册",
+        "intro": "从路灯下的小板凳摊到河畔大排档，越南中部吃的核心不是复杂的仪式，而是认准关键词：认得出菜名、问得清价格、说得明忌口——剩下就是放心大胆吃。下方的卡片先把点餐流程拆开，折叠字典里有路上最常用的菜名与表达。",
+        "cards": [
+          {
+            "title": "先认本地三宝",
+            "note": "广南粉 Mì Quảng、高楼面 Cao lầu、鸡饭 Cơm gà 才是会安与岘港的本地招牌，别把它们当成河内 Phở。到店不挑食的话，直接问老板「Món gì ngon?」（什么好吃），跟着当地人的点单走最稳。"
+          },
+          {
+            "title": "路边摊的节奏",
+            "note": "小板凳、矮桌、吃一份上一份是常态；吃完按口头价结账。坐下前先问价「Bao nhiêu?」，摊主说的价格就是成交价，一般不必再砍。座上有薄荷叶，按自己的量加，别全倒进去。"
+          },
+          {
+            "title": "海鲜按公斤讲价",
+            "note": "岘港海鲜排挡习惯按公斤（1kg）计价，白板价和口头价不一致时以白板为准。点单时说「1kg bao nhiêu?」问清单价，选蟹选虾时亲眼看称，结账再核对一次账单。"
+          },
+          {
+            "title": "饮品与甜点搭配",
+            "note": "滴漏冰咖啡 cà phê sữa đá、甘蔗汁、椰子冻是饭后标配；「Đá」是冰、「Không đá」是去冰。很多店餐后附一杯热茶不收钱，喝完再走不尴尬。"
+          },
+          {
+            "title": "忌口与过敏要直说",
+            "note": "「Không cay」不要辣、「Chay」素食、「Tôi bị dị ứng tôm」我虾过敏。越南菜几乎都默认配鱼露与花生，对坚果或海鲜敏感的人要把这几句存进手机。"
+          }
+        ]
+      },
+      "menu_primer": [
+        {
+          "term": "Mì Quảng",
+          "meaning": "广南粉（岘港代表）",
+          "note": "姜黄宽粉、豆芽、花生配少量汤汁与烤肉或虾；按肉料选，鸡肉说 gà、虾说 tôm。"
+        },
+        {
+          "term": "Cao lầu",
+          "meaning": "高楼面（会安独有）",
+          "note": "碱水面配叉烧、豆芽与脆饼，传说用本地古井水制作；会安古城里才吃得到。"
+        },
+        {
+          "term": "Cơm gà",
+          "meaning": "鸡饭",
+          "note": "姜黄饭+手撕鸡+酸菜，常配鸡血汤；会安名店集中在 Phan Châu Trinh 一带。"
+        },
+        {
+          "term": "Phở",
+          "meaning": "越南河粉",
+          "note": "牛肉清汤国民早餐；Phở bò 牛肉、Phở gà 鸡肉；汤头可以先喝一口再决定加不加青柠。"
+        },
+        {
+          "term": "Bánh xèo",
+          "meaning": "脆煎饼",
+          "note": "米浆煎出脆边，豆芽鲜虾馅，包生菜薄荷蘸鱼露吃；现点现煎，趁热吃。"
+        },
+        {
+          "term": "Bánh mì",
+          "meaning": "法棍三明治",
+          "note": "烤法棍夹烤肉或煎蛋、腌萝卜与香菜，街头 2–4 万盾一个，边走边吃。"
+        },
+        {
+          "term": "Hải sản",
+          "meaning": "海鲜",
+          "note": "按公斤计价，做法多为烤（nướng）、炸（chiên）、蒸（hấp）；先问价再下单。"
+        },
+        {
+          "term": "Cà phê sữa đá",
+          "meaning": "冰奶咖啡",
+          "note": "滴漏+炼乳+冰；要热的说 nóng，全冰说 đá nhiều，少甜说 ít đường。"
+        }
+      ],
+      "local_snacks": [
+        {
+          "local_name": "Bánh tráng cuốn thịt heo",
+          "english_name": "Rice Paper Rolls with Pork",
+          "description": "岘港招牌吃法：米纸卷烤猪肉片、青芒丝与各式香草，蘸鱼露花生酱，脆、酸、香一层层叠出来。",
+          "why_try": "这道菜把岘港「米纸+烤肉+蘸酱」的街头逻辑浓缩在一口里，离开中部很难吃到同样组合。",
+          "where_to_find": "汉市场周边与沿海大排档，午后到宵夜时段都有；一份约 5–8 万盾。",
+          "name": "Bánh tráng cuốn thịt heo"
+        },
+        {
+          "local_name": "Bánh bèo",
+          "english_name": "Steamed Rice Cakes",
+          "description": "小碟米浆蒸出的软糯米糕，铺虾松与油葱，浇一勺鱼露上桌，用勺子连碟刮着吃。",
+          "why_try": "一份一碟的仪式感与顺化风味，是早餐和下午茶之间最轻盈的垫肚选择。",
+          "where_to_find": "岘港早市与街头小摊常见，会安古城也有流动摊；两碟起步感受节奏。",
+          "name": "Bánh bèo"
+        },
+        {
+          "local_name": "Nem lụi",
+          "english_name": "Grilled Pork Skewers",
+          "description": "香茅与猪肉打成的串，炭火烤到边缘微焦，配米纸、生菜与酸萝卜卷着吃。",
+          "why_try": "会安夜市的烟火气担当，边逛灯笼摊边啃串，是古城最对的打开方式。",
+          "where_to_find": "会安夜市 Nguyễn Hoàng 街与古城小巷，傍晚开烤；一串约 1.5–2.5 万盾。",
+          "name": "Nem lụi"
+        },
+        {
+          "local_name": "Bánh mì",
+          "english_name": "Vietnamese Baguette Sandwich",
+          "description": "脆壳法棍夹烤肉、煎蛋或火腿，配腌萝卜、黄瓜与香菜，最后挤上辣酱。",
+          "why_try": "两万盾吃到扶墙的国民街头食物，会安的法棍水准尤其高，出了口岸再难遇到。",
+          "where_to_find": "路边摊与专门法棍店，早餐与宵夜两班；点单说「Bánh mì thịt」即烤肉款。",
+          "name": "Bánh mì"
+        }
+      ],
+      "dedicated_trip": [
+        {
+          "place_id": "white-rose"
+        },
+        {
+          "place_id": "com-ga-ba-buoi"
+        },
+        {
+          "place_id": "mi-quang-1a"
+        },
+        {
+          "place_id": "banh-mi-phuong"
+        },
+        {
+          "place_id": "bun-cha-ca-109"
+        },
+        {
+          "place_id": "be-man-seafood"
+        },
+        {
+          "place_id": "madame-lan"
+        }
+      ],
+      "reliable_chains": [
+        {
+          "place_id": "highlands-coffee"
+        },
+        {
+          "place_id": "phuc-long-da-nang"
+        },
+        {
+          "place_id": "kichi-kichi-da-nang"
+        }
+      ]
+    },
+    "preparation": {
+      "essentials": [
+        {
+          "title": "护照与两页复印件",
+          "note": "护照原件放贴身包，复印件+电子备份分别存手机相册和行李；出海潜水日别把护照带下水。"
+        },
+        {
+          "title": "越南盾现金",
+          "note": "机场出口只换当晚够用的量，大额去市区金店或银行换；小面额纸币（1万/2万盾）多备一些给小摊和找零。"
+        },
+        {
+          "title": "双币银行卡",
+          "note": "带一张 Visa/Mastercard 和一张银联；大店可刷卡，路边摊只收现金；出发前开通境外取现与刷卡的权限。"
+        },
+        {
+          "title": "境外旅行保险",
+          "note": "覆盖潜水/浮潜等水上项目的最好事先确认条款；保单号码抄一份给同行人。"
+        },
+        {
+          "title": "eSIM 或本地 SIM",
+          "note": "机场或出发前购越南流量 eSIM（约 5–10 天套餐）；Grab 打车全程要网络，Wi-Fi 不是可靠备选。"
+        },
+        {
+          "title": "充电宝与充电线",
+          "note": "越南插座多为两脚扁孔（A/C 型），国内两脚充电器可直接用；手机+充电宝在潜水日全天靠它。"
+        },
+        {
+          "title": "常用药与处方",
+          "note": "肠胃药、退烧药、创可贴、晕船药（潜水日用）装随身；处方药带英文说明书备查。"
+        },
+        {
+          "title": "防晒与修复",
+          "note": "SPF50+ 防晒每小时补一次，物理防晒（袖套/帽）对海滩和巴拿山缆车排队都管用；芦荟胶晒后急救。"
+        },
+        {
+          "title": "雨具两件套",
+          "note": "9 月底 10 月初是岘港雨季开头：折叠伞+轻便雨衣各一，巴拿山山顶和海边阵雨说来就来。"
+        },
+        {
+          "title": "薄外套与速干衣",
+          "note": "巴拿山山顶比市区低约 8–10℃，缆车与傍晚海边风大；速干 T 恤每天一件不占行李。"
+        },
+        {
+          "title": "泳具三件套",
+          "note": "泳衣两套（会安-岘港连泡三天海）、泳镜、速干浴巾；酒店一般有泳池，回程日晨泳别忘带干袋。"
+        },
+        {
+          "title": "防滑洞洞鞋",
+          "note": "美山、五行山、古城石板路都磨鞋，洞洞鞋兼顾涉水与石窟爬梯；比人字拖稳得多。"
+        },
+        {
+          "title": "小背包与防水袋",
+          "note": "日间只背小包+手机防水袋；潜水日再带一个干湿分离袋装湿泳衣，符合『不带大件行李游玩』的旅行原则。"
+        },
+        {
+          "title": "折叠购物袋",
+          "note": "汉市场和夜市买东西会爆袋；折叠袋塞进小包，返程日在机场还能二次包行李。"
+        },
+        {
+          "title": "驱蚊产品",
+          "note": "傍晚古城与夜市蚊虫多，含避蚊胺的喷雾最有效；贴片对东南亚蚊虫效率低。"
+        }
+      ],
+      "confirm_ahead": [
+        {
+          "title": "确认中国护照入境越南政策",
+          "timing": "出行前 1 周",
+          "note": "以中国驻越南使领馆与越南移民局最新公布为准：确认免签名单、e-visa 或落地签流程与停留时长，别只信攻略旧文。"
+        },
+        {
+          "title": "核对往返航班与行李额",
+          "timing": "出行前 3 天",
+          "note": "香港快运 UO558/UO563 基础票不含托运行李：在 App 检查手提 1 件 7kg、托运行李是否需补购；同时确认 10-06 回程起飞时间 11:50 不变。"
+        },
+        {
+          "title": "确认莲塘口岸通关时间",
+          "timing": "出行前 2 天",
+          "note": "莲塘/香园围口岸每日开放时间与高峰时段；9 月 30 日下午为节前车流高峰，陆路预留缓冲，把 16:30 的航班当作硬截止线。"
+        },
+        {
+          "title": "预订巴拿山门票",
+          "timing": "出行前 3–5 天",
+          "note": "官网或可信平台提前买含往返缆车的门票（约 75–95 万盾/成人，以官网当天为准），避开现场排队；打印/截图电子票备用。"
+        },
+        {
+          "title": "预约潜水与占婆岛行程",
+          "timing": "出行前 3 天＋前一晚确认",
+          "note": "机动日潜水一日游提前预订并保留微信/邮件确认；出发前一晚 20:00 前再和运营方确认成团与天气，不行就切换海滩自由日。"
+        },
+        {
+          "title": "预约烹饪课等体验",
+          "timing": "出行前 3 天",
+          "note": "若安排烹饪课或灯笼工坊，官网或平台预约锁定名额；旺季当天 walk-in 大概率满员。"
+        },
+        {
+          "title": "确认两家酒店与行李计划",
+          "timing": "出行前 3 天",
+          "note": "会安度假村（10-01/10-02 两晚）与岘港美溪酒店（10-02/03/04/05 四晚）订单截图存手机；2 号转场日上午先退房寄存行李再游玩。"
+        },
+        {
+          "title": "下载离线地图与 Grab",
+          "timing": "出行前 1 天",
+          "note": "Grab App 注册并绑定支付方式；Google 地图缓存岘港-会安-巴拿山区域，酒店与机场地址存成书签。"
+        },
+        {
+          "title": "查看天气与台风预告",
+          "timing": "出行前 2 天起每天",
+          "note": "台风季尾巴：关注越南中南部天气预报与台风路径；若占婆岛航线有风浪预警，把潜水日替换为美溪+泳池自由日。"
+        },
+        {
+          "title": "向家人共享行程与紧急联络",
+          "timing": "出行前 1 天",
+          "note": "把航班号、酒店、行程 PDF 与越南紧急电话（113 公安/115 急救/114 火警）发给家人；中国驻越使领馆领保热线以官方最新公布为准。"
+        }
+      ]
+    },
+    "language": {
+      "local_label": "越南语",
+      "keyword_groups": [
+        {
+          "title": "交通与定位",
+          "items": [
+            {
+              "term": "Sân bay",
+              "reading": "sen by — 森拜",
+              "meaning": "机场"
+            },
+            {
+              "term": "Tắc-xi",
+              "reading": "tac si — 塔克西",
+              "meaning": "出租车"
+            },
+            {
+              "term": "Grab",
+              "reading": "grap — 格拉布",
+              "meaning": "Grab 网约车（打车 App）"
+            },
+            {
+              "term": "Hội An",
+              "reading": "hoy an — 霍依安",
+              "meaning": "会安（古城）"
+            },
+            {
+              "term": "Bà Nà Hills",
+              "reading": "ba na — 巴拿",
+              "meaning": "巴拿山（旅游区）"
+            }
+          ]
+        },
+        {
+          "title": "餐厅与菜单",
+          "items": [
+            {
+              "term": "Phở",
+              "reading": "fuh — 弗",
+              "meaning": "越南牛肉河粉"
+            },
+            {
+              "term": "Mì Quảng",
+              "reading": "mee kwang — 米广",
+              "meaning": "广南面（岘港招牌面）"
+            },
+            {
+              "term": "Cao lầu",
+              "reading": "kaw low — 高娄",
+              "meaning": "高楼面（会安特色面）"
+            },
+            {
+              "term": "Bánh mì",
+              "reading": "ban mi — 班咪",
+              "meaning": "越式法棍三明治"
+            },
+            {
+              "term": "Hải sản",
+              "reading": "hai sun — 嗨孙",
+              "meaning": "海鲜"
+            }
+          ]
+        },
+        {
+          "title": "购物与支付",
+          "items": [
+            {
+              "term": "Giá",
+              "reading": "zah — 雅",
+              "meaning": "价格"
+            },
+            {
+              "term": "Bao nhiêu",
+              "reading": "bow nyew — 包纽",
+              "meaning": "多少"
+            },
+            {
+              "term": "Đồng",
+              "reading": "dohm — 盾",
+              "meaning": "越南盾（货币单位）"
+            },
+            {
+              "term": "Thẻ",
+              "reading": "teh — 特",
+              "meaning": "银行卡（刷卡）"
+            },
+            {
+              "term": "Hoá đơn",
+              "reading": "hwa duhn — 华敦",
+              "meaning": "发票／收据"
+            }
+          ]
+        },
+        {
+          "title": "住宿与设施",
+          "items": [
+            {
+              "term": "Phòng",
+              "reading": "fawng — 冯",
+              "meaning": "房间"
+            },
+            {
+              "term": "Nhận phòng",
+              "reading": "nyan fawng — 念冯",
+              "meaning": "办理入住"
+            },
+            {
+              "term": "Trả phòng",
+              "reading": "tra fawng — 茶冯",
+              "meaning": "退房"
+            },
+            {
+              "term": "Hành lý",
+              "reading": "hahn lee — 汉利",
+              "meaning": "行李"
+            },
+            {
+              "term": "Wi-Fi",
+              "reading": "wai fai — 歪法伊",
+              "meaning": "无线网络"
+            }
+          ]
+        },
+        {
+          "title": "求助与紧急情况",
+          "items": [
+            {
+              "term": "Bệnh viện",
+              "reading": "ben vee-en — 本维恩",
+              "meaning": "医院"
+            },
+            {
+              "term": "Cảnh sát",
+              "reading": "canh saht — 康萨",
+              "meaning": "警察"
+            },
+            {
+              "term": "Mất",
+              "reading": "maht — 马特",
+              "meaning": "遗失／丢了"
+            },
+            {
+              "term": "Cứu giúp",
+              "reading": "kee-oo zup — 纠扎卜",
+              "meaning": "救命／求助"
+            },
+            {
+              "term": "Hộ chiếu",
+              "reading": "hoh chee-oo — 户纠",
+              "meaning": "护照"
+            }
+          ]
+        }
+      ],
+      "phrase_groups": [
+        {
+          "title": "问路与乘车",
+          "items": [
+            {
+              "sentence": "Làm sao đến Hội An?",
+              "reading": "lam sao den hoy an — 拉姆骚 登 霍依安",
+              "meaning": "去会安怎么走？"
+            },
+            {
+              "sentence": "Làm sao lên Bà Nà Hills?",
+              "reading": "lam sao len ba na — 拉姆骚 楞 巴拿",
+              "meaning": "去巴拿山怎么走？"
+            },
+            {
+              "sentence": "Làm ơn đưa tôi ra sân bay.",
+              "reading": "lam uhn du-a toy ra sen by — 拉姆恩 杜瓦 多伊 拉 森拜",
+              "meaning": "请送我去机场。"
+            },
+            {
+              "sentence": "Làm ơn chạy theo đồng hồ.",
+              "reading": "lam uhn chai teo dohm hoh — 拉姆恩 猜 刁 栋霍",
+              "meaning": "请打表计费。"
+            },
+            {
+              "sentence": "Gọi Grab giúp tôi, cảm ơn.",
+              "reading": "goy grap zup toy, kam uhn — 高伊 格拉布 助 多伊，卡姆恩",
+              "meaning": "请帮我叫一辆 Grab，谢谢。"
+            }
+          ]
+        },
+        {
+          "title": "点餐与忌口",
+          "items": [
+            {
+              "sentence": "Cho tôi xem thực đơn.",
+              "reading": "chaw toy sem thuhk duhn — 朝 多伊 森 图克敦",
+              "meaning": "请给我看看菜单。"
+            },
+            {
+              "sentence": "Không cay nhé.",
+              "reading": "kohm kai neh — 空姆 开 内",
+              "meaning": "请不要放辣。"
+            },
+            {
+              "sentence": "Ít đường thôi nhé.",
+              "reading": "eet du-uhng thoy neh — 伊特 度昂 托伊 内",
+              "meaning": "请少放糖。"
+            },
+            {
+              "sentence": "Tôi ăn chay.",
+              "reading": "toy an chai — 多伊 安 斋",
+              "meaning": "我吃素。"
+            },
+            {
+              "sentence": "Tính tiền giúp tôi.",
+              "reading": "ting tee-en zup toy — 听 提恩 助 多伊",
+              "meaning": "请结账。"
+            }
+          ]
+        },
+        {
+          "title": "购物与砍价",
+          "items": [
+            {
+              "sentence": "Cái này giá bao nhiêu?",
+              "reading": "kai nai zah bow nyew — 盖 奈 雅 包纽",
+              "meaning": "这个多少钱？"
+            },
+            {
+              "sentence": "Bao nhiêu một cái?",
+              "reading": "bow nyew moht kai — 包纽 莫特 盖",
+              "meaning": "一件（这个）怎么卖？"
+            },
+            {
+              "sentence": "Giảm giá chút được không?",
+              "reading": "zam zah choot du-uhk kohm — 詹 雅 处特 德科姆",
+              "meaning": "能便宜一点吗？"
+            },
+            {
+              "sentence": "Đắt quá! Bớt nhé.",
+              "reading": "dat kwa! buht neh — 达特 瓜！伯特 内",
+              "meaning": "太贵了！便宜点吧。"
+            },
+            {
+              "sentence": "Cho tôi hoá đơn.",
+              "reading": "chaw toy hwa duhn — 朝 多伊 华敦",
+              "meaning": "请给我收据。"
+            }
+          ]
+        },
+        {
+          "title": "住宿沟通",
+          "items": [
+            {
+              "sentence": "Cho tôi nhận phòng.",
+              "reading": "chaw toy nyan fawng — 朝 多伊 念冯",
+              "meaning": "我来办理入住。"
+            },
+            {
+              "sentence": "Ngày mai tôi trả phòng.",
+              "reading": "ngai mai toy tra fawng — 奈迈 多伊 茶冯",
+              "meaning": "我明天退房。"
+            },
+            {
+              "sentence": "Gửi hành lý giúp tôi được không?",
+              "reading": "guy hahn lee zup toy du-uhk kohm — 归 汉利 助 多伊 德科姆",
+              "meaning": "可以帮我寄存行李吗？"
+            },
+            {
+              "sentence": "Điều hoà trong phòng bị hỏng.",
+              "reading": "dee-oo hwa chawng fawng bee hohng — 迪奥华 庄冯 比轰",
+              "meaning": "房间的空调坏了。"
+            },
+            {
+              "sentence": "Mật khẩu Wi-Fi là gì?",
+              "reading": "maht kaw wai fai la zee — 马特靠 歪法伊 拉伊",
+              "meaning": "Wi-Fi 密码是多少？"
+            }
+          ]
+        },
+        {
+          "title": "求助与紧急情况",
+          "items": [
+            {
+              "sentence": "Tôi bị mất hộ chiếu.",
+              "reading": "toy bee maht hoh chee-oo — 多伊 比 马特 户纠",
+              "meaning": "我丢了护照。"
+            },
+            {
+              "sentence": "Tôi bị ốm, cần đến bệnh viện.",
+              "reading": "toy bee ohm, kahn den ben vee-en — 多伊 比 欧姆，刊 登 本维恩",
+              "meaning": "我生病了，需要去医院。"
+            },
+            {
+              "sentence": "Làm ơn giúp tôi!",
+              "reading": "lam uhn zup toy — 拉姆恩 助 多伊",
+              "meaning": "请帮帮我！"
+            },
+            {
+              "sentence": "Gọi cảnh sát giúp tôi.",
+              "reading": "goy canh saht zup toy — 高伊 康萨 助 多伊",
+              "meaning": "请帮我报警。"
+            },
+            {
+              "sentence": "Số điện thoại bệnh viện là gì?",
+              "reading": "soh dee-en thwai ben vee-en la zee — 索 迪恩退 本维恩 拉伊",
+              "meaning": "医院电话是多少？"
+            }
+          ]
+        }
+      ],
+      "english_keyword_groups": [
+        {
+          "title": "交通与定位",
+          "items": [
+            {
+              "term": "airport",
+              "meaning": "机场"
+            },
+            {
+              "term": "taxi",
+              "meaning": "出租车"
+            },
+            {
+              "term": "ride-hailing app",
+              "meaning": "网约车 App（Grab）"
+            },
+            {
+              "term": "terminal",
+              "meaning": "航站楼"
+            },
+            {
+              "term": "transfer",
+              "meaning": "转乘／中转"
+            }
+          ]
+        },
+        {
+          "title": "餐厅与菜单",
+          "items": [
+            {
+              "term": "menu",
+              "meaning": "菜单"
+            },
+            {
+              "term": "not spicy",
+              "meaning": "不辣"
+            },
+            {
+              "term": "less sugar",
+              "meaning": "少糖"
+            },
+            {
+              "term": "vegetarian",
+              "meaning": "素食"
+            },
+            {
+              "term": "bill / check",
+              "meaning": "账单／买单"
+            }
+          ]
+        },
+        {
+          "title": "购物与支付",
+          "items": [
+            {
+              "term": "price",
+              "meaning": "价格"
+            },
+            {
+              "term": "discount",
+              "meaning": "折扣／优惠"
+            },
+            {
+              "term": "cash",
+              "meaning": "现金"
+            },
+            {
+              "term": "credit card",
+              "meaning": "信用卡"
+            },
+            {
+              "term": "receipt",
+              "meaning": "收据"
+            }
+          ]
+        },
+        {
+          "title": "住宿与设施",
+          "items": [
+            {
+              "term": "check-in",
+              "meaning": "入住"
+            },
+            {
+              "term": "check-out",
+              "meaning": "退房"
+            },
+            {
+              "term": "luggage storage",
+              "meaning": "行李寄存"
+            },
+            {
+              "term": "air conditioner",
+              "meaning": "空调"
+            },
+            {
+              "term": "Wi-Fi password",
+              "meaning": "Wi-Fi 密码"
+            }
+          ]
+        },
+        {
+          "title": "求助与紧急情况",
+          "items": [
+            {
+              "term": "help",
+              "meaning": "救命／帮助"
+            },
+            {
+              "term": "hospital",
+              "meaning": "医院"
+            },
+            {
+              "term": "police",
+              "meaning": "警察"
+            },
+            {
+              "term": "passport",
+              "meaning": "护照"
+            },
+            {
+              "term": "emergency",
+              "meaning": "紧急情况"
+            }
+          ]
+        }
+      ],
+      "english_phrase_groups": [
+        {
+          "backup_label": "英语备用",
+          "title": "机场与转机",
+          "items": [
+            {
+              "sentence": "Where is the transfer desk?",
+              "meaning": "转机柜台在哪里？"
+            },
+            {
+              "sentence": "Is my flight on time?",
+              "meaning": "我的航班准点吗？"
+            },
+            {
+              "sentence": "Is this the way to baggage claim?",
+              "meaning": "行李提取处是走这边吗？"
+            },
+            {
+              "sentence": "I missed my connection.",
+              "meaning": "我错过了转机航班。"
+            },
+            {
+              "sentence": "Please help me rebook.",
+              "meaning": "请帮我改签。"
+            }
+          ]
+        },
+        {
+          "title": "打车与问路",
+          "items": [
+            {
+              "sentence": "Take me to this address, please.",
+              "meaning": "请送我去这个地址。"
+            },
+            {
+              "sentence": "Please use the meter.",
+              "meaning": "请打表计费。"
+            },
+            {
+              "sentence": "How far is it from here?",
+              "meaning": "离这里有多远？"
+            },
+            {
+              "sentence": "Please wait for me here.",
+              "meaning": "请在这里等我。"
+            },
+            {
+              "sentence": "Stop here, please.",
+              "meaning": "请在这里停车。"
+            }
+          ]
+        },
+        {
+          "title": "酒店与住宿",
+          "items": [
+            {
+              "sentence": "I have a reservation.",
+              "meaning": "我已经预订了。"
+            },
+            {
+              "sentence": "Could I check out late?",
+              "meaning": "可以延迟退房吗？"
+            },
+            {
+              "sentence": "Could you store our luggage?",
+              "meaning": "可以寄存我们的行李吗？"
+            },
+            {
+              "sentence": "The air conditioner is not working.",
+              "meaning": "房间的空调坏了。"
+            },
+            {
+              "sentence": "Could you call a taxi for us?",
+              "meaning": "可以帮我们叫出租车吗？"
+            }
+          ]
+        },
+        {
+          "title": "餐厅点餐",
+          "items": [
+            {
+              "sentence": "Could I see the menu, please?",
+              "meaning": "请给我菜单。"
+            },
+            {
+              "sentence": "No spicy, please.",
+              "meaning": "请不要放辣。"
+            },
+            {
+              "sentence": "Less sugar, please.",
+              "meaning": "请少放糖。"
+            },
+            {
+              "sentence": "I am allergic to peanuts.",
+              "meaning": "我对花生过敏。"
+            },
+            {
+              "sentence": "Could we have the bill, please?",
+              "meaning": "请结账。"
+            }
+          ]
+        },
+        {
+          "title": "紧急求助",
+          "items": [
+            {
+              "sentence": "Please call an ambulance.",
+              "meaning": "请叫救护车。"
+            },
+            {
+              "sentence": "I have lost my passport.",
+              "meaning": "我丢了护照。"
+            },
+            {
+              "sentence": "Where is the nearest hospital?",
+              "meaning": "最近的医院在哪里？"
+            },
+            {
+              "sentence": "Please call the police.",
+              "meaning": "请报警。"
+            },
+            {
+              "sentence": "Can you help me, please?",
+              "meaning": "请帮帮我。"
+            }
+          ]
+        }
+      ]
+    },
+    "travel_notes": [
+      {
+        "category": "climate",
+        "title": "天气与穿着",
+        "summary": "九月底十月初正是岘港雨季初期，晴雨切换很快，海面时有风浪，行李与行程都要按随时下雨来准备。",
+        "items": [
+          {
+            "title": "九月十月带什么",
+            "note": "当地白天气温在 29–33℃ 之间，湿度高，阵雨说来就来，棉质速干衣物比牛仔裤实用得多。建议每人备一件轻便雨衣或折叠伞，鞋子选防滑凉鞋，雨停后半小时路面就能干透。"
+          },
+          {
+            "title": "巴拿山山顶温差",
+            "note": "巴拿山顶比市区低约 8–10℃，缆车一上去体感立刻变凉，同一天会经历夏天和初秋两种天气。带一件能塞进背包的薄外套或皮肤衣，山顶餐厅和室内景点的冷气也足，怕冷的同伴尤其用得上。"
+          },
+          {
+            "title": "防晒与驱蚊怎么选",
+            "note": "越南阳光强度大，紫外线在阴天也不弱，上午十点后出门，脖子和手臂最容易晒伤。防晒霜选 SPF50+ 并每隔两小时补涂一次，傍晚开始蚊子活跃，逛夜市和去海边时随身带瓶驱蚊液更稳妥。"
+          },
+          {
+            "title": "雨天的行程兜底",
+            "note": "雨季初期常见上午晴、午后暴雨的节奏，缆车和海滩活动可能临时停运。建议上午优先安排户外项目，把室内景点、按摩和咖啡馆排在下午，遇到持续大雨就打车回酒店休整，不必在雨中硬撑。"
+          }
+        ]
+      },
+      {
+        "category": "etiquette",
+        "title": "文化与礼仪",
+        "summary": "岘港人待客随和，但宗教场所和本地人生活区有明确规矩，进殿脱鞋、拍照先问、小费随心意即可。",
+        "items": [
+          {
+            "title": "进寺庙怎么守规矩",
+            "note": "岘港的佛寺和占婆遗址是宗教场所，进殿要脱鞋并摘下帽子，穿无袖上衣或短裤可能被礼貌拦下。建议参观当日穿及膝裤或长裙，寺内压低音量，也不要对着佛像摆姿势合影。"
+          },
+          {
+            "title": "拍照先问一句",
+            "note": "当地人对游客拍照大多友好，但摊主、船夫和卖艺者常希望先谈好或收点小费，不问就拍容易起误会。举起相机前先微笑说一声“xin phép”（可以吗），对方点头再拍，拍了人脸的照片不要随手发到社交媒体。"
+          },
+          {
+            "title": "小费给不给",
+            "note": "越南没有强制小费文化，多数餐厅账单已含服务费，不必按百分比硬给。服务好时把找零留下或给一两万盾就行，导游和包车司机可以给得多一些，不给也不会被刁难。"
+          },
+          {
+            "title": "别碰这些雷区",
+            "note": "和越南人相处时不要摸小孩或成人的头部，头部被视为最尊贵的位置；也不要用手指直接指点人或佛像。付钱和递东西尽量用双手，至少别单手甩过去，入乡随俗会让整趟行程顺利得多。"
+          }
+        ]
+      },
+      {
+        "category": "transport",
+        "title": "当地交通",
+        "summary": "岘港机场距美溪海滩约五公里，市内打车用 Grab 明码标价最省心；去会安约三十公里，古城内靠步行。",
+        "items": [
+          {
+            "title": "机场到美溪怎么走",
+            "note": "岘港国际机场离美溪海滩只有约 5 公里，不堵车十五分钟左右就到，比很多城市都方便。出航站楼直接用 Grab 叫车并按 App 价格支付最稳妥，谨防上前拉客的司机报高价；深夜落地也有车，只是等待时间会长一些。"
+          },
+          {
+            "title": "岘港到会安怎么去",
+            "note": "岘港市区到会安约 30 公里，车程 40–60 分钟，走沿海公路一路风景不错。最省心的是 Grab 或请酒店叫包车，车费以 App 实时价为准；想自由停靠也可租摩托车骑行，但雨季路面湿滑，要控制速度。"
+          },
+          {
+            "title": "会安古城怎么逛",
+            "note": "会安古城核心区禁止机动车进入，步行加租自行车是最舒服的逛法，灯笼街和河边一带步行走得最顺畅。自行车租金通常几万盾一天，还车时检查车锁和停放位置，傍晚灯笼亮起来后是全天最美的时段。"
+          },
+          {
+            "title": "租摩托车注意什么",
+            "note": "在越南骑摩托车必须戴头盔，本地红灯时右转通常允许（除非路口有禁止标志），主路摩托车流密集，骑行习惯和国内很不一样。租车前确认车况、租金是否含油，最好出示国际驾照并问清保险条款，新手不建议在岘港市区高峰时段骑行，具体驾照要求以官方最新规定为准。"
+          }
+        ]
+      },
+      {
+        "category": "safety",
+        "title": "安全与应急",
+        "summary": "海边看旗子再下水，巴拿山和夜市看好随身物，手机相机别在路边随手把玩，紧急电话 113/115/114。",
+        "items": [
+          {
+            "title": "海滩游泳看什么",
+            "note": "美溪海滩平时浪小沙细，但雨季海面风浪说来就来，务必选有救生员的时段下水。看到红旗表示禁止下水，黄旗要格外小心，不要游出旗语范围；不会游泳就只在浅水区踩水，浪大时在岸边看景也一样开心。"
+          },
+          {
+            "title": "巴拿山缆车与人群",
+            "note": "巴拿山缆车以长距离出名，周末和节假日排队可能超过一小时，老人小孩特别多，通道拥挤。随身背包拉链拉好、手机别放外套口袋，佛手金桥拍照要排队，事先记好下山缆车末班时间，避免天黑后被留在山上。"
+          },
+          {
+            "title": "防飞抢四件事",
+            "note": "岘港的飞车抢夺多发生在游客拿手机、相机在路边拍照的瞬间，尤其是夜晚的夜市周边和龙桥附近。手机相机不用时收进包内，背包背在胸前，过马路不要在路边长时间停留，打车时等车到再下台阶。"
+          },
+          {
+            "title": "紧急电话与大使馆",
+            "note": "越南报警电话 113、急救 115、火警 114，遇事先拨打这三个号码，并请当地人帮忙说明位置。护照丢失先报警拿报案记录，再到中国驻岘港总领事馆申请旅行证件，领事保护热线为 +84-24-38235569，具体号码与流程以官方最新公布为准。"
+          }
+        ]
+      },
+      {
+        "category": "payment",
+        "title": "支付与现金",
+        "summary": "越南盾大票面常见十万、二十万、五十万，付款先看清零；机场换汇不划算，市区银行和金店更优。",
+        "items": [
+          {
+            "title": "认读越南盾面额",
+            "note": "越南盾面额大、零多，常见十万、二十万和五十万盾纸币，颜色和花纹各不相同，付款前先认准面额。当地人报价动辄几十万盾，先换算成人民币数一下再掏钱，钱包里把大票和小票分开放能少很多误会。"
+          },
+          {
+            "title": "在哪里换汇",
+            "note": "机场和酒店换汇汇率通常较差，市区银行、金店或正规兑换点相对划算，汇率以当天牌价为准。人民币在越南不能直接通用，建议带少量美元或人民币到市区再换，一次别换太多，用不完的越南盾离境前很难换回。"
+          },
+          {
+            "title": "刷卡还是现金",
+            "note": "连锁超市、大商场和正规餐厅可以刷卡，路边摊、夜市和小本经营的店铺基本只收现金。日常吃饭购物备两三百万盾现金足够，部分店铺支持二维码扫码支付，但国际卡能用的范围有限，别指望小巷子里也能刷卡。"
+          },
+          {
+            "title": "砍价与找零",
+            "note": "市场和纪念品店可以讲价，先对半砍再慢慢磨是常见玩法，明码标价的商场和便利店不用砍。付大票后一定要当面数清找零，个别摊贩会借忙碌少找钱；拿到手数一遍再走，剩下的零钱顺手留作小费用。"
+          }
+        ]
+      }
+    ]
+  }
+}
